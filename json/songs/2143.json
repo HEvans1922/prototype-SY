@@ -1,0 +1,3033 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+            "id": "2143",
+            "tempo": 118,
+            "infoName": "April Showers",
+            "infoNameExtractable": "April Showers",
+            "infoAuthor": "Mark, Helen and Naomi Johnson",
+            "infoCopyright": "© 2022 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2022 Out of the Ark Ltd",
+            "infoCCLI": "7207650",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 6,
+            "styleBodySize": 36,
+            "styleTitleCol": "CE186F",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "CE186F",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "00CC33",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "9900FF",
+            "styleCol3Unhighlighted": "000000",
+            "styleCol4Highlighted": "0E76BC",
+            "styleCol4Unhighlighted": "000000",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/3/_3C_2CC_24T_2CU_5CQ-S_28S_2C3_28W-_23_28P-C_2CY_2C_23_40T_3C_23_2CP-S_28Q-0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+            "fileLargeMD5": "8cb8a1760ade905cfa4a956fda25b52e",
+            "fileLargeSize": 368815,
+            "fileInfo": "songs/info/3/_3B_2CC_24T_2CU_5CQ._23DP_2CS_2CR_2CC_2CV_2CSDX-C4V_3BC_3DO._27-Q_0A_60_0A.pdf",
+            "fileInfoMD5": "242509b6533d43dd5f377d038c1beb2c",
+            "fileInfoSize": 442712,
+            "fileLyrics": "songs/lyrics/3/_3B_2CC_24T_2CU_5CU_2CC_28S_2CC_60W-S_28V_2CSDX-C4V_3BC_40X_3CW_29P_0A_60_0A.pdf",
+            "fileLyricsMD5": "185da0f029db57c88cf02b17e444dc27",
+            "fileLyricsSize": 334380,
+            "fileScore": "songs/scores/3/_3C_2CC_24T_2CU_5CQ-C_28T.38S_2C34R-C_2CY._238U-FXY_2C6_5CS_2C_40_60_60_0A_60_0A.pdf",
+            "fileScoreMD5": "a03b496afbaa5775f0c8e9083fc318b5",
+            "fileScoreSize": 112413,
+            "title": "April Showers",
+            "author": "Mark, Helen and Naomi Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/3/_3B_2CC_24T_2CU_5CU_2CC_28S_2CC_60W-S_28V_2CSDX-C4V_3BC_40X_3CW_29P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/3/_3C_2CC_24T_2CU_5CQ-C_28T.38S_2C34R-C_2CY._238U-FXY_2C6_5CS_2C_40_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>A song of four simple, easy-to-perform parts, that build and overlay. It&rsquo;s great fun hearing all the parts come together, and good for listening and holding individual melodies. Create the arrival and fading of a seasonal shower, and enjoy the changes of dynamic along the way.</p>",
+            "teachingTips": "<ul>\r\n\t<li>This is a great song to <strong>cheer everyone up</strong> on a rainy day! Each of the four parts is easy to learn and will sound impressive sung altogether.</li>\r\n\t<li>Teach all the parts to everyone first before splitting the class into four groups and <strong>allocating each a verse</strong>. You might like to have equally-sized groups or small groups for verses 1-3 and a larger group for verse 4 &ndash; it&rsquo;s up to you.</li>\r\n\t<li>Encourage the children to listen carefully to the track to help them know when to come in. At first it will be helpful to <strong>conduct the entries</strong>.</li>\r\n\t<li>Make sure that the verse 1 singers put the &lsquo;p&rsquo; on the end of each<em> &lsquo;drip, drop&rsquo; </em>and remember to <strong>watch the conductor</strong> for their final line, <em>&lsquo;we&rsquo;ve gotta stop&rsquo;</em>.</li>\r\n\t<li>You might like to try singing without the backing track and <strong>experimenting</strong> with the groups starting and stopping at different times.</li>\r\n\t<li>A performance with children wearing wellies and raincoats, and some <strong>choreography</strong> involving umbrellas, would be great fun!</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [
+                {
+                    "id": "15",
+                    "name": "The World Around",
+                    "slug": "the-world-around",
+                    "assembly": {
+                        "id": "9",
+                        "title": "The World Around",
+                        "description": "From the tallest trees, to the something you can only see with a microscope, this assembly encourages us to notice, appreciate and be thankful for the world around us.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "18",
+                    "name": "Happy Endings",
+                    "slug": "happy-endings",
+                    "assembly": {
+                        "id": "12",
+                        "title": "Happy Endings",
+                        "description": "This assembly explores setbacks we might encounter in our lives and the characteristics needed to overcome them.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                }
+            ],
+            "userCollections": [],
+            "clouds": [],
+            "pages": [
+                {
+                    "id": "271580",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 16742,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363424",
+                            "infoName": "  ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70185",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80591",
+                                            "content": "1",
+                                            "milliseconds": 7155,
+                                            "hide": 9180,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80592",
+                                            "content": "2",
+                                            "milliseconds": 7663,
+                                            "hide": 9180,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80593",
+                                            "content": "3",
+                                            "milliseconds": 8172,
+                                            "hide": 9180,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80594",
+                                            "content": "4",
+                                            "milliseconds": 8680,
+                                            "hide": 9180,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363425",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70186",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80595",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 9189,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70187",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80596",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 13100,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271581",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 16900,
+                    "millisecondsStop": 24886,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363426",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70188",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80597",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 17210,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70189",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80598",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 21342,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363427",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70190",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80599",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 17210,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70191",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80600",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 21342,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271582",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 24887,
+                    "millisecondsStop": 33190,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363428",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70192",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80601",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 25418,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70193",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80602",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 29319,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363429",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70194",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80603",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 25418,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70195",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80604",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 29319,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363430",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70196",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80605",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 24888,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70197",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80606",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 29041,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271583",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 33195,
+                    "millisecondsStop": 41250,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363431",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70198",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80607",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 33451,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70199",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80608",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 37498,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363432",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70200",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80609",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 33451,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70201",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80610",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 37498,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363433",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70202",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80611",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 33195,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70203",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80612",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 37141,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363434",
+                            "infoName": " Group 4:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 4,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70204",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80613",
+                                            "content": "April showers, <large>let’s run for cover!</large>",
+                                            "milliseconds": 33451,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70205",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80614",
+                                            "content": "<large>Um-b-rellas</large> up!",
+                                            "milliseconds": 37498,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271584",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 41251,
+                    "millisecondsStop": 49308,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363435",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70206",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80615",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 41682,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70207",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80616",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 45623,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363436",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70208",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80617",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 41682,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70209",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80618",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 45623,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363437",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70210",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80619",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 41252,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70211",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80620",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 45192,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363438",
+                            "infoName": "Group 4:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 4,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70212",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80621",
+                                            "content": "April showers, <large>let’s find a shelter</large>,",
+                                            "milliseconds": 41682,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70213",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80622",
+                                            "content": "Pray this <large>rain’ll stop!</large>",
+                                            "milliseconds": 45623,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271585",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 49309,
+                    "millisecondsStop": 57393,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363439",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70214",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80623",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 49828,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70215",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80624",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 53895,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363440",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70216",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80625",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 49828,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70217",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80626",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 53895,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363441",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70218",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80627",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 49310,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70219",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80628",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 53392,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363442",
+                            "infoName": "Group 4:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 4,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70220",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80629",
+                                            "content": "April showers, <large>let’s run for cover!</large>",
+                                            "milliseconds": 49828,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70221",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80630",
+                                            "content": "<large>Um-b-rellas</large> up!",
+                                            "milliseconds": 53895,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271586",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 57395,
+                    "millisecondsStop": 65524,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363443",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70222",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80631",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 57874,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70223",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80632",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 61913,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363444",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70224",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80633",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 57874,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70225",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80634",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 61913,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363445",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70226",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80635",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 57396,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70227",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80636",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 61457,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363446",
+                            "infoName": "Group 4:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 4,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70228",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80637",
+                                            "content": "April showers, <large>let’s find a shelter</large>,",
+                                            "milliseconds": 57874,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70229",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80638",
+                                            "content": "Pray this <large>rain’ll stop!</large>",
+                                            "milliseconds": 61913,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271587",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 65595,
+                    "millisecondsStop": 73838,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363447",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70230",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80639",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 66067,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70231",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80640",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 70226,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363448",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70232",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80641",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 66067,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70233",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80642",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 70226,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363449",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70234",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80643",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 65526,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70235",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80644",
+                                            "content": "It’s raining, <large>it’s pouring!</large>",
+                                            "milliseconds": 69679,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271588",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 74055,
+                    "millisecondsStop": 81785,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363450",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70236",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80645",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 74160,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70237",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80646",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>.",
+                                            "milliseconds": 78310,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363451",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70238",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80647",
+                                            "content": "<large>Pitter-patter, pitter-patter,</large> tapping on the window,",
+                                            "milliseconds": 74160,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70239",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80648",
+                                            "content": "<large>Pitter-patter</large>, down the windowpane.",
+                                            "milliseconds": 78310,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271589",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 81992,
+                    "millisecondsStop": 88970,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363452",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70240",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80649",
+                                            "content": "<large>Drip, drop</large>, we’ve got a <large>drip, drop</large>,",
+                                            "milliseconds": 82319,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70241",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80650",
+                                            "content": "<large>Drip, drop</large>, we’ve gotta stop.",
+                                            "milliseconds": 86304,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "4715",
+                    "metadata": "{\"title\":\"April Showers\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Easter Assembly\",\"track\":\"6\",\"TBPM\":\"118\"}",
+                    "duration": 92760,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 118,
+                    "infoName": "Group 1",
+                    "infoNameExtractable": "Group 1",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 92760,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/0/_3C_2CS0U.3_21_3F_2CC_28X_2C3_24X._23_3CV-C_2CX-3_60S_3BW_2CR_3CC_60Q-P_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/1/_3C_2CS0U.3_25_3F-3DS-SDW-_23_3CT-C_2CX-3_60S_3C_23_21R._23ER_2C_40_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "fdc9cf7e5536891460e5b9eb87b1a631",
+                        "ogg": "dd1bd64de93f112e0ce6f82b06821454",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2227896",
+                        "ogg": "1294081",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4716",
+                    "metadata": "{\"title\":\"April Showers\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Easter Assembly\",\"track\":\"6\",\"TBPM\":\"118\"}",
+                    "duration": 92930,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 118,
+                    "infoName": "Group 2",
+                    "infoNameExtractable": "Group 2",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 92930,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3A_2CS0U.3-_3F_2CS_60Y_2C34Q-_238S._234P-_26_5DN_3C3_2CX-7_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS0U.31_3F-3DW_2C3DQ-S4S-C_2CX-3_60T_3BW_21N_2CS_40T.0_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "23d793067c99d6bed44b863dbab398a1",
+                        "ogg": "4d8aa8840eaa05510d6d44d39ff75013",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2232285",
+                        "ogg": "1304861",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4717",
+                    "metadata": "{\"title\":\"April Showers\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Easter Assembly\",\"track\":\"6\",\"TBPM\":\"118\"}",
+                    "duration": 92920,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 118,
+                    "infoName": "Group 3",
+                    "infoNameExtractable": "Group 3",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 92920,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/9/_3C_2CS0R_2CSE_3F-_23_24T-3_3CR-CDU-C_2CU.38U-S_60Y_2CC5N_2CP_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/0/_3C_2CS0R-_23_21_3F-SDR_2C_23_24W.34U-C_2CU.38U-S_28V_2CC9S_2C_60_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "10c41bf6dfae3bf5a1c7d84432e3d765",
+                        "ogg": "a32c8e94b197581889542349a87c31a3",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2232285",
+                        "ogg": "1311442",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4718",
+                    "metadata": "{\"title\":\"April Showers\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Easter Assembly\",\"track\":\"6\",\"TBPM\":\"118\"}",
+                    "duration": 90940,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 118,
+                    "infoName": "Group 4",
+                    "infoNameExtractable": "Group 4",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 90940,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/2/_3C_2CS0R-_23_29_3F_2C3_2CT-_230X-_234U-C_2CU.38U-S8T_3C_23_24P_3CP_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CS0R-_23-_3F_2C3_24X-C8R._23_24X_2C38S-3DV-3_3CX_2C3_28U_2C3_24_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "8c763df18b0de156e548271ffa17046b",
+                        "ogg": "11cc684e2d9f5cb35269c520d237d67b",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2184637",
+                        "ogg": "1282288",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4776",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs for Every Spring Assembly\",\"track\":\"6\",\"TBPM\":\"118\"}",
+                    "duration": 92600,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 118,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200092",
+                    "millisecondsLength": 92600,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/9/_3C_2CS0X_2C_23E_3F-38U_2CC_24Q-S_28V-C_2CX._27_60Y_2C_23_25Q_2CS9S-P_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/0/_3D_2CS0X_2C3_21_3F_2C3DU_2C3_2CW._23_3CU.38S._23AP.3_60S_3BG_60P_2C_23_28_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "79e3abd93c5d9b3db34c8603f914ea40",
+                        "ogg": "5e5e0c3a253d33144919b9e2f32b4275",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2224133",
+                        "ogg": "1281191",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4777",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out Of The Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"21\",\"TBPM\":\"118\"}",
+                    "duration": 92600,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 118,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200107",
+                    "millisecondsLength": 92600,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CS0W-_23-_3F_2C30Y-34U._238T_2CS8S._23AP-_234S_2CG_21O_3BC_24_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS0W-_231_3F_2CC_2CS.3_40Q-S0Q-C_2CX._27_60T-34R_2C30T_3C0_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "7d5ef18223c301f65c40f736e685b9ad",
+                        "ogg": "83640c942c150679b53e46e76faaa5c7",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "2224134",
+                        "ogg": "1307728",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1134",
+                    "type": "Song Type",
+                    "formattedName": "Layered Song",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1144",
+                    "type": "Starting Key",
+                    "formattedName": "F Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1508",
+                    "type": "Vocal Range",
+                    "formattedName": "C-C",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1189",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Medium",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1217",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Scales/Modes",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1210",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Melodic Leaps",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1288",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Just For Fun",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1394",
+                    "type": "Topic/Theme",
+                    "formattedName": "Weather",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1400",
+                    "type": "Seasonal",
+                    "formattedName": "Spring",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1938",
+                    "type": "Has Video",
+                    "formattedName": "No",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "69",
+                    "slug": "singin-in-the-rain",
+                    "title": "Singin' In The Rain",
+                    "privateTitle": "Singin' In The Rain",
+                    "content": "[{\"key\":\"a6462f2f49065cdd\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Use the famous <strong>Singin&rsquo; In The Rain dance <\\/strong>by Gene Kelly (1952) as inspiration to <strong>choreograph your own dance, <\\/strong>to accompany the song.<em>&nbsp;<\\/em>There&rsquo;s surely potential for some <strong>umbrella action <\\/strong>here!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1693",
+                    "slug": "rainy-day-percussion",
+                    "title": "Rainy-Day Percussion",
+                    "privateTitle": "Rainy-Day Percussion",
+                    "content": "[{\"key\":\"9bc2f9af8a6e8a85\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To explore texture and timbre<\\/li>\\n\\t<li>To perform in four parts as an ensemble<\\/li>\\n\\t<li>To improvise a percussive accompaniment<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"4397891b95076e4d\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Percussion instruments, e.g. xylophones, rainmakers, shakers<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"71d44367ff908d9c\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Discuss how you could <strong>represent rain sounds<\\/strong> using percussion instruments and body percussion. Would metallic or wooden instruments sound best? Can the children make a &lsquo;drip&rsquo; sound with their mouths, as if they were fish? You might like to<strong> listen to the backing track<\\/strong> on its own for inspiration.<\\/p>\\n\\n<p>As a class, decide which instruments\\/sounds (timbres) would be best for each verse. As a starting point, you could try the following:<\\/p>\\n\\n<ul>\\n\\t<li><strong>Verse 1:<\\/strong> mouths<\\/li>\\n\\t<li><strong>Verse 2:<\\/strong> fingers patting on desks<\\/li>\\n\\t<li><strong>Verse 3:<\\/strong> xylophones playing the <em>&lsquo;it&rsquo;s raining, it&rsquo;s pouring&rsquo;<\\/em> motif using the notes C A F<\\/li>\\n\\t<li><strong>Verse 4:<\\/strong> rainmakers and shakers for <em>&lsquo;April showers&rsquo;<\\/em><\\/li>\\n<\\/ul>\\n\\n<p>Try performing along with the vocal track, or splitting the class in half and having half singing, half playing.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"71c6092693e59585\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>For <strong>more inspiration<\\/strong> for your rainy-day soundscape, have a look at this fun body-percussion soundscape by Perpetuum Jazzile.<\\/p>\\n\",\"title\":\"Look\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/icons-look-280x280-16159933936d8D7.png\"}},{\"key\":\"39d047b6e63cdf5d\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=c3LjvUzxm5E\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"ecf3a51878f14c53\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Or try this simple version with the class.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"7f3928b9ac2a64fb\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=xgKy1gCugKY\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"e6f49df0b1ca04a0\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Talk about the different <strong>timbres<\\/strong>, <strong>dynamics<\\/strong> and<strong> textures<\\/strong> that are produced.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": "<div>A chance to explore and improvise raindrop sound effects using percussion instruments and body percussion. This activity also provides a great opportunity for discussing texture, timbre and dynamics as the four parts gradually enter and then stop, representing the passing shower.</div>",
+                    "ageRange": "5-7",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1716",
+                            "type": "Music Checklist",
+                            "formattedName": "Dynamics",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1715",
+                            "type": "Music Checklist",
+                            "formattedName": "Texture",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1717",
+                            "type": "Music Checklist",
+                            "formattedName": "Timbre",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1633",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Improvise",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1634",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "*",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1700",
+                    "slug": "april-shower-composition",
+                    "title": "April-Shower Composition",
+                    "privateTitle": "April-Shower Composition",
+                    "content": "[{\"key\":\"2cd18fca2fb74afd\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Play the children the backing track to <em>April Showers<\\/em> and then this video of <em>&lsquo;Little April Shower&rsquo; <\\/em>from Disney&rsquo;s <em>Bambi<\\/em>:&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"928e4d10fef73b70\",\"layout\":\"video\",\"attributes\":{\"url\":\"www.youtube.com\\/watch?v=S-FUcrQhTBY\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"71c01a3f85c36ff1\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>In both cases, ask the children to listen very carefully to how rain is depicted in the music. In the video, talk about how the rain starts slowly with the clarinet&rsquo;s single notes, then how the tempo increases when the triangle and voices come in. Listen out for the descriptive storm section in the middle in the minor key with cymbal crashes for the lightning, and then the return to the happy major song at the end (giving it an ABA structure). Use both tracks as inspiration for your own <strong>class April-shower composition<\\/strong>.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1702",
+                    "slug": "rain-poetry",
+                    "title": "Rain Poetry",
+                    "privateTitle": "Rain Poetry",
+                    "content": "[{\"key\":\"083609fe9278cfe6\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Read some poems about rain and see if you can pick out the <strong>imagery<\\/strong> or other literary devices that the poet has used to <strong>create atmosphere<\\/strong>. Write a list of the most effective phrases and see if the children can incorporate them into a piece of <strong>descriptive writing<\\/strong> about rain. Play a YouTube video of rain sounds and images to inspire them whilst they write!<\\/p>\\n\\n<ul>\\n\\t<li><em>Spring Storm<\\/em>, William Carlos Williams<\\/li>\\n\\t<li><em>The Rain<\\/em>, William Henry Davies<\\/li>\\n\\t<li><em>Rain<\\/em>, Robert Louis Stevenson<\\/li>\\n\\t<li><em>Rainy Nights<\\/em>, Irene Thompson<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"3f2093086f435b82\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=uLAygfRZQUI\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2326",
+                            "title": "Come Rain Or Shine",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/microsoftteams-image-18-1712651870rjk0n.png",
+                            "duration": 130680,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "2256",
+                    "slug": "songs-for-a-rainy-day",
+                    "title": "Songs For A Rainy Day",
+                    "privateTitle": "Songs For A Rainy Day",
+                    "content": "[{\"key\":\"6244f0e329d30d25\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/SYHomepageImages\\/LandscapeImages\\/no-neg-space2-17446384479OcT2.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"87c63ed2abf6c8ae\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>We&rsquo;ve put together a mix of songs on the theme of rain, but also some fun songs for wet play and a few just to cheer everyone up! Don&rsquo;t forget to click &lsquo;see all&rsquo;&nbsp;and add to your playlists and collections.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": "https://assets.sparkyard.com/uploads/SYHomepageImages/LandscapeImages/no-neg-space2-17446384479OcT2.png",
+                    "thumbnailText": "We’ve put together a mix of songs on the theme of rain, but also some fun songs for wet play and a few just to cheer everyone up!",
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1394",
+                            "type": "Topic/Theme",
+                            "formattedName": "Weather",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "2",
+                        "name": "Blog",
+                        "color": null,
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "155",
+                            "title": "A Song You’ll Love To Know!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 115200,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "182",
+                            "title": "Wet Play",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-season-cd-1626164435DTM3b.jpg",
+                            "duration": 141390,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1090",
+                            "title": "I Need A Brolly!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/nd-everydaysongs-cd-1626164351Epk7B.jpg",
+                            "duration": 105000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1147",
+                            "title": "Wet, Wet, Wet!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 87370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1414",
+                            "title": "Keep On Smiling",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-allaboutme-cd-1626164321cMgbw.jpg",
+                            "duration": 107530,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1423",
+                            "title": "Little Clouds",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-wonderfulwater-cd-1626164349aPmKS.jpg",
+                            "duration": 119450,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1433",
+                            "title": "Ready Or Not",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-toysandgames-cd-1626164346yZBZW.jpg",
+                            "duration": 101930,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2250",
+                            "title": "Incey Wincey Spider",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/enn-cdcover-v3-1693476064FDFdD.png",
+                            "duration": 53120,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2326",
+                            "title": "Come Rain Or Shine",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/microsoftteams-image-18-1712651870rjk0n.png",
+                            "duration": 130680,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [
+                {
+                    "id": "2256",
+                    "slug": "songs-for-a-rainy-day",
+                    "title": "Songs For A Rainy Day",
+                    "privateTitle": "Songs For A Rainy Day",
+                    "content": "[{\"key\":\"6244f0e329d30d25\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/SYHomepageImages\\/LandscapeImages\\/no-neg-space2-17446384479OcT2.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"87c63ed2abf6c8ae\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>We&rsquo;ve put together a mix of songs on the theme of rain, but also some fun songs for wet play and a few just to cheer everyone up! Don&rsquo;t forget to click &lsquo;see all&rsquo;&nbsp;and add to your playlists and collections.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": "https://assets.sparkyard.com/uploads/SYHomepageImages/LandscapeImages/no-neg-space2-17446384479OcT2.png",
+                    "thumbnailText": "We’ve put together a mix of songs on the theme of rain, but also some fun songs for wet play and a few just to cheer everyone up!",
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1394",
+                            "type": "Topic/Theme",
+                            "formattedName": "Weather",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "2",
+                        "name": "Blog",
+                        "color": null,
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "155",
+                            "title": "A Song You’ll Love To Know!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 115200,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "182",
+                            "title": "Wet Play",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-season-cd-1626164435DTM3b.jpg",
+                            "duration": 141390,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1090",
+                            "title": "I Need A Brolly!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/nd-everydaysongs-cd-1626164351Epk7B.jpg",
+                            "duration": 105000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1147",
+                            "title": "Wet, Wet, Wet!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 87370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1414",
+                            "title": "Keep On Smiling",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-allaboutme-cd-1626164321cMgbw.jpg",
+                            "duration": 107530,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1423",
+                            "title": "Little Clouds",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-wonderfulwater-cd-1626164349aPmKS.jpg",
+                            "duration": 119450,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1433",
+                            "title": "Ready Or Not",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-toysandgames-cd-1626164346yZBZW.jpg",
+                            "duration": 101930,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2250",
+                            "title": "Incey Wincey Spider",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/enn-cdcover-v3-1693476064FDFdD.png",
+                            "duration": 53120,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2326",
+                            "title": "Come Rain Or Shine",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/microsoftteams-image-18-1712651870rjk0n.png",
+                            "duration": 130680,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "esbTrack": {
+                "id": "2578",
+                "esongbook": {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVjZGU1MjQzNGZjOGUxZDBjNzk4NjNmZTJmYjk1Yjk3YWEwNmY5ZGYiLCJqdGkiOiJlY2RlNTI0MzRmYzhlMWQwYzc5ODYzZmUyZmI5NWI5N2FhMDZmOWRmIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTY5NDIsImlhdCI6MTc2MzI1NTE0MiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.EYDi3DpDwq9Mdhei_zrTybN1TT-OvFGRnWzeJ680xsLp1EXDPl4WzZ8DQad5uR7ZPths-tyLac_scOUTmPixj86L77Yv5GOBd_HaImFkUfyhzEIxq55V_ab8hAw_KZNSnKBAq2vVSt1SMfrpmMVKJoix214sGLHMOwydRsdw78tnY2ZWPE17_kBrhoh-iwDLcMhdiUDzxcrjSL0-WOWgLuvCKPlOcWWWqKxFTY6d_RdyK52GTGdth5yXpyuQjj5pepDGN0KChj2QeEFcVbXPY3da1_tX0ljfT8dTMC3EledvgoeOQjrka6YATJyofdi6AF9ta4EBcU7HLIoF_7R4Eg",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

@@ -1,0 +1,2267 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+            "id": "1685",
+            "tempo": 1,
+            "infoName": "Goodbye Winter, Hello Spring!",
+            "infoNameExtractable": "Goodbye Winter, Hello Spring!",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2018 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2018 Out of the Ark Ltd",
+            "infoCCLI": "7119878",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "CenturyGothic",
+            "styleBodyLeading": 6,
+            "styleBodySize": 32,
+            "styleTitleCol": "F05349",
+            "styleTitleFont": "CenturyGothic",
+            "styleTitleSize": 55,
+            "styleCol1Highlighted": "F05349",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "FFFFFF",
+            "styleCol2Unhighlighted": "FFFFFF",
+            "styleCol3Highlighted": "FFFFFF",
+            "styleCol3Unhighlighted": "FFFFFF",
+            "styleCol4Highlighted": "FFFFFF",
+            "styleCol4Unhighlighted": "FFFFFF",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/5/_3B_2C38X-5_5CT_2CC4P_2C30T_2CSDU_3BW_28T_2CC8T-C_28T_2CS_21Q_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+            "fileLargeMD5": "a6e3cf68125493af0c8bfbfefe64aa9b",
+            "fileLargeSize": 1736672,
+            "fileInfo": "songs/info/5/_3B_2C38X-5_5CT_2CC_24V-3_2CT_2C3_40U_3BW-Q_2CF_5CT_3C3_28W-3_28V_0A_60_0A.pdf",
+            "fileInfoMD5": "e430e4294937aeccefa61a4317b95ec0",
+            "fileInfoSize": 513940,
+            "fileLyrics": "songs/lyrics/5/_3B_2C38X-5_5CS_2C3_60X-_23DT_2C34U_3BW_2CU_2CS0T-C_2CW_2C_23-Q_0A_60_0A.pdf",
+            "fileLyricsMD5": "4dd0f862f46d1c2d7c1f0587241c2376",
+            "fileLyricsSize": 31350,
+            "fileScore": "songs/scores/5/_3B_2C38X-5_5CY_2C_23_2CS._238S-3_2CU_3BW_2CU_2CS0T-C-O_2CW_28Q_0A_60_0A.pdf",
+            "fileScoreMD5": "705be3c298c69eca458d46b3a6ceb0f9",
+            "fileScoreSize": 88286,
+            "title": "Goodbye Winter, Hello Spring!",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/5/_3B_2C38X-5_5CS_2C3_60X-_23DT_2C34U_3BW_2CU_2CS0T-C_2CW_2C_23-Q_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/5/_3B_2C38X-5_5CY_2C_23_2CS._238S-3_2CU_3BW_2CU_2CS0T-C-O_2CW_28Q_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>An upbeat and energetic introduction to the new season. Verse by verse it allows us to let go of all things winter, and to give a warm welcome to spring. A really singable, catchy song to get us all in the mood for celebration. &lsquo;<em>Life is waking up!</em>&rsquo;</p>",
+            "teachingTips": "<ul>\r\n\t<li>Lots of energetic physical warm-ups will get the children in the right mood for singing this upbeat song.&nbsp;</li>\r\n\t<li>Encourage the class to count the 8 bars of introduction (<strong>1 </strong>2 3 4, <strong>2 </strong>2 3 4, <strong>3 </strong>2 3 4 etc.) so that they are ready to come in in bar 9. It&rsquo;s good practice to do this even if you are using the Words on Screen program.</li>\r\n\t<li>The melody of the verse should be straightforward to learn as the second phrase is pretty much the same as the first. However, notice the difference between the rhythm for <em>&lsquo;Hello spring&rsquo; </em>and <em>&lsquo;lighter days&rsquo;</em>. Clap these rhythms and practise them a few times separately to ensure they are accurate.&nbsp;</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "2105",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                    "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                    "filename_size": 4876,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "204013",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 26308,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "281223",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "16277",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18991",
+                                            "content": "1",
+                                            "milliseconds": 12084,
+                                            "hide": 13680,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "18992",
+                                            "content": "2",
+                                            "milliseconds": 12490,
+                                            "hide": 13680,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "18993",
+                                            "content": "3",
+                                            "milliseconds": 12899,
+                                            "hide": 13680,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "18994",
+                                            "content": "4",
+                                            "milliseconds": 13285,
+                                            "hide": 13680,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "281224",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "16278",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18995",
+                                            "content": "Goodbye winter,<large> hello spring,</large>",
+                                            "milliseconds": 13681,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16279",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18996",
+                                            "content": "We’re glad to have you<large> back again.</large>",
+                                            "milliseconds": 16417,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16280",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18997",
+                                            "content": "Here’s to<large> warm </large>and<large> lighter days</large>",
+                                            "milliseconds": 20003,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16281",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18998",
+                                            "content": "Now wintertime has<large> gone away.</large>",
+                                            "milliseconds": 22960,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204014",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 26400,
+                    "millisecondsStop": 38368,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281225",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16282",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "18999",
+                                            "content": "Springtime!<large> Sing time!</large>",
+                                            "milliseconds": 26490,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16283",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19000",
+                                            "content": "Everywhere<large> alive with colour.</large>",
+                                            "milliseconds": 29749,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16284",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19001",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 33055,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16285",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19002",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 36302,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204015",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 39023,
+                    "millisecondsStop": 51317,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281226",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16286",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19003",
+                                            "content": "Blue skies,<large> new life,</large>",
+                                            "milliseconds": 39525,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16287",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19004",
+                                            "content": "Breezy days and<large> gentle showers,</large>",
+                                            "milliseconds": 42766,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16288",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19005",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 46030,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16289",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19006",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 49224,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204016",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 51779,
+                    "millisecondsStop": 65371,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "281227",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "16290",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19007",
+                                            "content": "Goodbye gloves and<large> woolly hats,</large>",
+                                            "milliseconds": 52398,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16291",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19008",
+                                            "content": "We’re glad to see that<large> spring is back.</large>",
+                                            "milliseconds": 55445,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16292",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19009",
+                                            "content": "No more<large> dark </large>and<large> dreary days</large>",
+                                            "milliseconds": 59044,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16293",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19010",
+                                            "content": "Now wintertime has<large> gone away.</large>",
+                                            "milliseconds": 61902,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204017",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 65450,
+                    "millisecondsStop": 77283,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281228",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16294",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19011",
+                                            "content": "Springtime!<large> Sing time!</large>",
+                                            "milliseconds": 65514,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16295",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19012",
+                                            "content": "Everywhere<large> alive with colour.</large>",
+                                            "milliseconds": 68710,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16296",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19013",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 72072,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16297",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19014",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 75222,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204018",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 78081,
+                    "millisecondsStop": 90198,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281229",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16298",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19015",
+                                            "content": "Blue skies,<large> new life,</large>",
+                                            "milliseconds": 78485,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16299",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19016",
+                                            "content": "Breezy days and<large> gentle showers,</large>",
+                                            "milliseconds": 81725,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16300",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19017",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 85033,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16301",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19018",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 88205,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204019",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 91177,
+                    "millisecondsStop": 104025,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "281230",
+                            "infoName": "3.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "16302",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19019",
+                                            "content": "Goodbye scarves and<large> welly boots,</large>",
+                                            "milliseconds": 91479,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16303",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19020",
+                                            "content": "We’re glad to see the<large> back of you!</large>",
+                                            "milliseconds": 94325,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16304",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19021",
+                                            "content": "No more<large> cold </large>and<large> frosty days</large>",
+                                            "milliseconds": 97994,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16305",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19022",
+                                            "content": "Now wintertime has<large> gone away.</large>",
+                                            "milliseconds": 100772,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204020",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 104200,
+                    "millisecondsStop": 116276,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281231",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16306",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19023",
+                                            "content": "Springtime!<large> Sing time!</large>",
+                                            "milliseconds": 104451,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16307",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19024",
+                                            "content": "Everywhere<large> alive with colour.</large>",
+                                            "milliseconds": 107646,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16308",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19025",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 110965,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16309",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19026",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 114171,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204021",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 117064,
+                    "millisecondsStop": 129428,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2105",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/5/_3C_2CC_24P-5_5CQ-34V.3_28S._23_60X-6_5DR-_23_28V-_27_29Q_3C38Y-_40_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                            "filename_size": 4876,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "281232",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "16310",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19027",
+                                            "content": "Blue skies,<large> new life,</large>",
+                                            "milliseconds": 117422,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16311",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19028",
+                                            "content": "Breezy days and<large> gentle showers,</large>",
+                                            "milliseconds": 120573,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16312",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19029",
+                                            "content": "Warm times,<large> sunshine,</large>",
+                                            "milliseconds": 123948,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16313",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19030",
+                                            "content": "Life is<large> waking up!</large>",
+                                            "milliseconds": 127142,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "204022",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 129700,
+                    "millisecondsStop": 143603,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "281233",
+                            "infoName": "4.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "16314",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19031",
+                                            "content": "Goodbye winter,<large> hello spring,</large>",
+                                            "milliseconds": 130394,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16315",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19032",
+                                            "content": "We’re glad to have you<large> back again.</large>",
+                                            "milliseconds": 133258,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16316",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19033",
+                                            "content": "Here’s to<large> warm </large>and<large> lighter days</large>",
+                                            "milliseconds": 136801,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "16317",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "19034",
+                                            "content": "Now wintertime has<large> gone away.</large>",
+                                            "milliseconds": 139720,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "3689",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2018\",\"album\":\"Spring Assembly Songs\",\"track\":\"1\",\"TBPM\":\"\"}",
+                    "duration": 149290,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 1,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2018 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN1800402",
+                    "millisecondsLength": 149290,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/0/_3D_2CC0U_2C3_21_3F_2CC_60T-_238S_2CS8X_2C_235Q_3C_23_21R_3BG_29P_3CC_25P-C_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/1/_3D_2CC0U_2C3_25_3F_2CC_24Q._23_2CW-S0Y_2C35Q_3C_23_21R_3BG_2CS_2CC_2CR_3C7_24_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "89715b8a58024d5e307d4e7e9e275230",
+                        "ogg": "6dd59bcbe6f0ba9740960788a06030e5",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3585187",
+                        "ogg": "2153761",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "3690",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2018\",\"album\":\"Spring Assembly Songs\",\"track\":\"14\",\"TBPM\":\"\"}",
+                    "duration": 149290,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 1,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2018 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN1800415",
+                    "millisecondsLength": 149290,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CC0U_2C3-_3F_2C3_3CR-S_40R_2C_23_40R-S5Q_3C_23_21R_3BG-N._26YQ_3BS_40_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3D_2CC0U_2C31_3F_2C3_60U-S_2CX_2C38V-C5Q_3C_23_21R_3BS_60P_2C3DW_2C_23_2C_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "23bbe2c4c878f30826994dddf8d88b95",
+                        "ogg": "7b3303def16b2a9aacbbbae1f9c6a2f1",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3585188",
+                        "ogg": "2186937",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1138",
+                    "type": "Starting Key",
+                    "formattedName": "C Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1187",
+                    "type": "Vocal Range",
+                    "formattedName": "C-D",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1190",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Large",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1219",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Syncopation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1210",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Melodic Leaps",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1205",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Chromaticism",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1136",
+                    "type": "Song Type",
+                    "formattedName": "Unison",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1495",
+                    "type": "Tempo Description",
+                    "formattedName": "Quick",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1248",
+                    "type": "Musical Style",
+                    "formattedName": "Rock",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1244",
+                    "type": "Musical Style",
+                    "formattedName": "Pop",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1375",
+                    "type": "Topic/Theme",
+                    "formattedName": "Seasons",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1394",
+                    "type": "Topic/Theme",
+                    "formattedName": "Weather",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1400",
+                    "type": "Seasonal",
+                    "formattedName": "Spring",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1354",
+                    "type": "Topic/Theme",
+                    "formattedName": "Nature",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1356",
+                    "type": "Topic/Theme",
+                    "formattedName": "New Life",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1938",
+                    "type": "Has Video",
+                    "formattedName": "No",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "26",
+                    "slug": "exploring-tonality",
+                    "title": "Exploring Tonality",
+                    "privateTitle": "Exploring Tonality",
+                    "content": "[{\"key\":\"f85e48bfb5ded696\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To hear the difference between major and minor keys (tonality)<\\/li>\\n\\t<li>To improvise a tune in a major or minor key<\\/li>\\n\\t<li>To compose a short melody with lyrics in a major or minor key<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"deb1370ab0078a99\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Sets of chime bars (one with C D E F G and another with C D E<music class=\\\"pagnifin-font\\\">b<\\/music> F G); large books\\/folders<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"cb2ee07dc151adbe\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Explore what makes this such a cheerful song. <\\/strong>Children might mention the lyrics. Discuss the contrast between winter&#39;s dark and dreary, cold and frosty weather and spring&#39;s warm and lighter days, sunshine and blue skies. Write these words up on the board in Winter and Spring columns.<\\/p>\\n\\n<p>Explain to the class that every piece of music is built on a <strong>scale <\\/strong>or <strong>key, <\\/strong>i.e. a set of notes that go up and down. In C major these notes are C D E F G A B C. All play or sing them up and down. But in C minor, two of the notes are changed &ndash; the E becomes E\\u266d, and the A becomes A\\u266d. Now play or sing C D E\\u266d&nbsp;F G A\\u266d&nbsp;B C. Can the children hear the difference? How would they describe this? Does it change the mood? <strong>Major keys <\\/strong>are often described as sounding &lsquo;happy&rsquo; &ndash; whereas <strong>minor keys <\\/strong>can be thought of as &lsquo;sad&rsquo;. Can the children hear if this song is in a major or minor key? <em>(It&rsquo;s in C major.) <\\/em><\\/p>\\n\\n<p>Set up two sets of chime bars behind a screen (some large books or folders would do). One with the notes C D E F G (a mini or &lsquo;micro&rsquo; scale) and one with the notes C D E\\u266d&nbsp;F G. Ask for two volunteers to improvise a short tune (starting and finishing on C) on each of the sets of chime bars. Can the rest of the class tell whether they are playing a major or a minor tune?<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"28b6b6bbf0321b88\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Split the class into small groups, some with minor-key chime bars and some with major-key ones. Using the appropriate words from the board, and any other winter\\/spring words they want to add, can they <strong>write their own Winter or Spring Song<\\/strong>?<\\/p>\",\"title\":\"Step It Up!\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1873-1614695091mFFrP.png\"}},{\"key\":\"0c59ff9da7d66ce7\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Listen to some other songs in major keys, such as The Beatles&rsquo; <em>Let It Be <\\/em>or Leonard Cohen&rsquo;s <em>Hallelujah<\\/em>. Now listen to some in minor keys, such as Pink Floyd&rsquo;s <em>Another Brick In The Wall <\\/em>or The Beatles&rsquo; <em>Eleanor Rigby. <\\/em>Can the children suggest songs that they know and work out if they are in a major or a minor key?<\\/p>\\n\",\"title\":\"Listen\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/listen-01-1615991956LRT6z.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Explore musical ‘mood’ by learning about tonality and playing scales in major and minor keys. Step this up a level by composing simple winter or spring songs.&nbsp;</div>",
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1633",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Improvise",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1632",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Compose",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1635",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "**",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "113",
+                    "slug": "playing-classical-music-spring",
+                    "title": "Playing Classical Music (Spring)",
+                    "privateTitle": "Classical music",
+                    "content": "[{\"key\":\"8de421d31e95fe11\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Make it a routine to <strong>play some classical music <\\/strong>at the beginning of the day &ndash; perhaps when the children are taking off their coats, settling in the classroom or entering an assembly. Here are a few ideas:&nbsp;<\\/p>\\n\\n<ul>\\n\\t<li><em>Ballet of the Unhatched Chicks<\\/em> (Mussorgsky)<\\/li>\\n\\t<li><em>The Lark Ascending<\\/em> (Vaughan-Williams)<\\/li>\\n\\t<li><em>On Hearing the First Cuckoo in Spring<\\/em> (Delius)&nbsp;<\\/li>\\n\\t<li><em>Spring<\\/em> from <em>The Four Seasons<\\/em> (Vivaldi)&nbsp;<\\/li>\\n<\\/ul>\\n\",\"title\":\"Music\",\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1673",
+                            "title": "A Perfect Day In Spring",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 157120,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1688",
+                            "title": "It’s A Spring Thing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 122880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1735",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/summer-assemblysongs-cd-1626164467UNuPA.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "121",
+                    "slug": "rainbow-dance",
+                    "title": "Rainbow Dance",
+                    "privateTitle": "Rainbow Dance",
+                    "content": "[{\"key\":\"1dcd9b7908e4c9ce\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Rainbow Dance <\\/strong>by Len Lye (1936) is a combination of experimental film, jazz and dance and is an inspiring watch! After watching the film, encourage the children to think about what movements spring brings: plants growing; raindrops falling; children running, jumping and skipping in the playground. Then, think about the colours of spring. Create a contemporary dance piece that expresses this collision of movement and colours to showcase in one of your spring assemblies.&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"279afe7bf7efd6b1\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=AHN9IHGQxk8\",\"title\":\"Rainbow Dance\",\"active\":false,\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1400",
+                            "type": "Seasonal",
+                            "formattedName": "Spring",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "1736",
+                "esongbook": {
+                    "id": "151",
+                    "infoName": "Spring Assembly Songs – A Seasonal Celebration",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": null,
+                    "imageFilename": "SPRING-Assembly-Songs-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/1/_3B_2C34Q7S_24R_2CC_3CP-3_3CS-38U_3BW_2CT_2CC_40X_3CF_5CR_3C38P_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/1/_3B_2C34Q7S_24U_2CS_3CY_2CS_60X-S_60U_3BW_2CT_2CC_40X_3CF_5CV_2CC-S_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "701",
+                            "ordering": 10,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.co.uk",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "716",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Creative Ideas",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3A-S_24V7S_28W.30T-3_40S_2C35O_3CW_24R_2CS_29P-C_40Q_3CC_28_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "212448c7f597a398122aacc04435addb",
+                            "pdfFileSize": 2734342,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "717",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/7/_3A-S_24W7S8P.3_28U-C_60U-35O_3CW_24R_2CW_24V_3C3_40X_3CC_2C_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "6c656273cfa2e3308522ce00edd26f12",
+                            "pdfFileSize": 4852196,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "719",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3B-S_24Y7S_24V-3_60Q-_23_60V._23_2CU_3BW-Q_2CC-S._26YP_3C_23_2CP_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "827d62230d2b83c8829ae6f6fe3020f9",
+                            "pdfFileSize": 51344,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "720",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Assembly Plans",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3A-S_28P7S_28S._234X-_23_2CU-S5O_3CW_24R-_23_60X-G_29Q_3CG_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "cad599ec05755d5f2c366e18b2669273",
+                            "pdfFileSize": 320152,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "721",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "http://www.outoftheark.co.uk/spring-songs/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "724",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3A-S_28T7S_40V-CDV.30Y_2CS5O_3CW_24T-_27_24Q_3C3_25O-C_3C_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "d5d7e827f173854db48bc3624039e213",
+                            "pdfFileSize": 2958714,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "807",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Dance & Craft Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/1621/spring-assembly-songs-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1894",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "1670",
+                            "title": "Wake Up!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "3-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 143160,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1671",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 106280,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1672",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 143650,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1673",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 157120,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1674",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 241810,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1686",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 173830,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1687",
+                            "title": "The Seed Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 161640,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1688",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 122880,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1689",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 180090,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1692",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 175970,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1693",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 239390,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1694",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 217960,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "151",
+                    "infoName": "Spring Assembly Songs – A Seasonal Celebration",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": null,
+                    "imageFilename": "SPRING-Assembly-Songs-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/1/_3B_2C34Q7S_24R_2CC_3CP-3_3CS-38U_3BW_2CT_2CC_40X_3CF_5CR_3C38P_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/1/_3B_2C34Q7S_24U_2CS_3CY_2CS_60X-S_60U_3BW_2CT_2CC_40X_3CF_5CV_2CC-S_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "701",
+                            "ordering": 10,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.co.uk",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "716",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Creative Ideas",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3A-S_24V7S_28W.30T-3_40S_2C35O_3CW_24R_2CS_29P-C_40Q_3CC_28_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "212448c7f597a398122aacc04435addb",
+                            "pdfFileSize": 2734342,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "717",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/7/_3A-S_24W7S8P.3_28U-C_60U-35O_3CW_24R_2CW_24V_3C3_40X_3CC_2C_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "6c656273cfa2e3308522ce00edd26f12",
+                            "pdfFileSize": 4852196,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "719",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3B-S_24Y7S_24V-3_60Q-_23_60V._23_2CU_3BW-Q_2CC-S._26YP_3C_23_2CP_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "827d62230d2b83c8829ae6f6fe3020f9",
+                            "pdfFileSize": 51344,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "720",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Assembly Plans",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3A-S_28P7S_28S._234X-_23_2CU-S5O_3CW_24R-_23_60X-G_29Q_3CG_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "cad599ec05755d5f2c366e18b2669273",
+                            "pdfFileSize": 320152,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "721",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "http://www.outoftheark.co.uk/spring-songs/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "724",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3A-S_28T7S_40V-CDV.30Y_2CS5O_3CW_24T-_27_24Q_3C3_25O-C_3C_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjAyNmQzMDg1Nzk4YzAzZTYzNmFmZTlmYWEzZTAzNDM3MWM2ODMyOWUiLCJqdGkiOiIwMjZkMzA4NTc5OGMwM2U2MzZhZmU5ZmFhM2UwMzQzNzFjNjgzMjllIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjMwNTY3ODEsImlhdCI6MTc2MzA1NDk4MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fu1eQujFDe0kTZCPWIfQlccgmYtz1y4NllflXgKlgE2aQve9tisZ4aqoV4qx4e6UFe1Zdjt0869vkMhDaiBf6UfDEDLX3lybsXSrYnP060PmZl3OcO9HIJ0r4N8jXqgveXnzsXT7jILeUcIhIpr2TdBgDU8SZ1xRinP6g9BuhiyluDUGpo7TXOjXygaL4hUjV5gEzmxcB-vbqiz2TZT3RNJSTL9U_LC8hH9K2NIELVnjwtkhYuY5Ja4bpo4JwGSbdBFF5_c1Uxb2LxOhVfXn-iYLkPtMOEGted4UnJMA_lcx1KTGWMQxR8IxXQr5QxL00jIvBwn4FMqkoLQZCQDfVg",
+                            "pdfFileMd5": "d5d7e827f173854db48bc3624039e213",
+                            "pdfFileSize": 2958714,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "807",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Dance & Craft Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/1621/spring-assembly-songs-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1894",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "1670",
+                            "title": "Wake Up!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "3-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 143160,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1671",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 106280,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1672",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 143650,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1673",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 157120,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1674",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 241810,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1686",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 173830,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1687",
+                            "title": "The Seed Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 161640,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1688",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 122880,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1689",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 180090,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1692",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 175970,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1693",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 239390,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1694",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 217960,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

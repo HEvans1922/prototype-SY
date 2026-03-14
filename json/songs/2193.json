@@ -1,0 +1,2173 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+            "id": "2193",
+            "tempo": 126,
+            "infoName": "One In A Million!",
+            "infoNameExtractable": "One In A Million!",
+            "infoAuthor": "Mark, Helen and Naomi Johnson",
+            "infoCopyright": "© 2023 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2023 Out of the Ark Ltd",
+            "infoCCLI": "7211477",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 6,
+            "styleBodySize": 36,
+            "styleTitleCol": "000000",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 70,
+            "styleCol1Highlighted": "DF005A",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "00CC33",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "FFFFFF",
+            "styleCol3Unhighlighted": "FFFFFF",
+            "styleCol4Highlighted": "FFFFFF",
+            "styleCol4Unhighlighted": "FFFFFF",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/3/_3C_2CC_24Y_2CU_5CQ_2CC8U_2CS_28U-_23_24T-C0P-7_29P-_23_28S_2C7_60U-0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+            "fileLargeMD5": "e9392e89f0926a77cf7681c2221cc798",
+            "fileLargeSize": 406925,
+            "fileInfo": "songs/info/3/_3C_2CC_24Y_2CU_5CQ_2C_23_3CY_2CCDP.34V-C0P-S_25N_3BC_2CP-CAS-P_60_60_0A_60_0A.pdf",
+            "fileInfoMD5": "014ba225241232ca8974a4762d6ed03c",
+            "fileInfoSize": 713767,
+            "fileLyrics": "songs/lyrics/3/_3C_2CC_24Y_2CU_5CQ._23_28P_2CS_24T-C_2CT-C0P-C_25S_2C_23-N-_23_40R_3BP_60_60_0A_60_0A.pdf",
+            "fileLyricsMD5": "1b00cdaa52b5653f7e7a26fe54f17378",
+            "fileLyricsSize": 61032,
+            "fileScore": "songs/scores/3/_3C_2CC_24Y_2CU_5CQ_2C3_40Q._23DQ-S_40U-C0P-C_25S_2C_23-O_2CCER_3CP_60_60_0A_60_0A.pdf",
+            "fileScoreMD5": "91633e9954e8f184768e5280f0d57233",
+            "fileScoreSize": 108468,
+            "title": "One In A Million!",
+            "author": "Mark, Helen and Naomi Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/3/_3C_2CC_24Y_2CU_5CQ._23_28P_2CS_24T-C_2CT-C0P-C_25S_2C_23-N-_23_40R_3BP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/3/_3C_2CC_24Y_2CU_5CQ_2C3_40Q._23DQ-S_40U-C0P-C_25S_2C_23-O_2CCER_3CP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>A strong and catchy song for Mother&rsquo;s Day, with thought-provoking lyrics reminding us that nobody is perfect, but that even on our grumpy days, <em>&lsquo;she&rsquo;s the best one for me&rsquo;</em>.</p>",
+            "teachingTips": "<ul>\r\n\t<li>The melody in the second half of the chorus has some semitone intervals. Some children may find it difficult to hear these initially so take time to repeat the melody slowly so that each note is clear and sung exactly at the right pitch.</li>\r\n\t<li>Encourage raised eyebrows and smiles on the &lsquo;<em>Sometimes&rsquo; </em>notes in the verses to make sure the children leap up to this note, as it&rsquo;s an easy one to sing flat if you&rsquo;re not careful.</li>\r\n\t<li>As an exercise in learning about phrasing and call-and-response singing, divide the group in two and have both groups sing one short phrase to the other throughout the verses, joining together for a rousing chorus!</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "2641",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/1/_3C_2CC8T_2C5_5CQ-_23DT_2C_23_28T_2C3_24Y-C0P-7_29P-_23_28S_3BS_60Y-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                    "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                    "filename_size": 23241,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "272672",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 23501,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "364993",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "73194",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83944",
+                                            "content": "1",
+                                            "milliseconds": 7801,
+                                            "hide": 9440,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "83945",
+                                            "content": "2",
+                                            "milliseconds": 8277,
+                                            "hide": 9440,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "83946",
+                                            "content": "3",
+                                            "milliseconds": 8753,
+                                            "hide": 9440,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "83947",
+                                            "content": "4",
+                                            "milliseconds": 9229,
+                                            "hide": 9440,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "364994",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "73195",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83948",
+                                            "content": "My mum’s <large>one in a million,</large>",
+                                            "milliseconds": 9440,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73196",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83949",
+                                            "content": "I’m sure that you would <large>agree.</large>",
+                                            "milliseconds": 13097,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73197",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83950",
+                                            "content": "I wouldn’t say that <large>she’s perfect,</large>",
+                                            "milliseconds": 16779,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73198",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83951",
+                                            "content": "But she’s the <large>best one</large> for me.",
+                                            "milliseconds": 20566,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272673",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 23995,
+                    "millisecondsStop": 38900,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "364995",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73199",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83952",
+                                            "content": "Sometimes I can be <large>grumpy,</large>",
+                                            "milliseconds": 24669,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73200",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83953",
+                                            "content": "Sometimes I get <large>upset,</large>",
+                                            "milliseconds": 28426,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73201",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83954",
+                                            "content": "But I still know that <large>she loves me,</large>",
+                                            "milliseconds": 32130,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73202",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83955",
+                                            "content": "And that <large>I’ll never forget!</large>",
+                                            "milliseconds": 35880,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272674",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 39276,
+                    "millisecondsStop": 55042,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2641",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/1/_3C_2CC8T_2C5_5CQ-_23DT_2C_23_28T_2C3_24Y-C0P-7_29P-_23_28S_3BS_60Y-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "364996",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "73203",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83956",
+                                            "content": "Oh! This is a <large>Mother’s Day song</large> for you.",
+                                            "milliseconds": 39903,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73204",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83957",
+                                            "content": "Mum, you’re <large>ever so special</large> and I’m",
+                                            "milliseconds": 47392,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73205",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83958",
+                                            "content": "Gonna find ways to say <large>I love you too!</large>",
+                                            "milliseconds": 51576,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272675",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 56052,
+                    "millisecondsStop": 71055,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "364997",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73206",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83959",
+                                            "content": "My mum’s <large>ever so clever,</large>",
+                                            "milliseconds": 57111,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73207",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83960",
+                                            "content": "It’s really <large>easy to see,</large>",
+                                            "milliseconds": 60717,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73208",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83961",
+                                            "content": "She helps make <large>sense of a problem,</large>",
+                                            "milliseconds": 64452,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73209",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83962",
+                                            "content": "She knows <large>what matters</large> to me.",
+                                            "milliseconds": 68226,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272676",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 71490,
+                    "millisecondsStop": 86500,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "364998",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73210",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83963",
+                                            "content": "Sometimes we can be <large>stressy,</large>",
+                                            "milliseconds": 72094,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73211",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83964",
+                                            "content": "Sometimes even we <large>shout!</large>",
+                                            "milliseconds": 75875,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73212",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83965",
+                                            "content": "But I still know that <large>she loves me,</large>",
+                                            "milliseconds": 79816,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73213",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83966",
+                                            "content": "And that’s what <large>certainly counts!</large>",
+                                            "milliseconds": 83506,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272677",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 86800,
+                    "millisecondsStop": 102624,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2641",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/1/_3C_2CC8T_2C5_5CQ-_23DT_2C_23_28T_2C3_24Y-C0P-7_29P-_23_28S_3BS_60Y-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "364999",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "73214",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83967",
+                                            "content": "Oh! This is a <large>Mother’s Day song</large> for you.",
+                                            "milliseconds": 87611,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73215",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83968",
+                                            "content": "Mum, you’re <large>ever so special</large> and I’m",
+                                            "milliseconds": 94991,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73216",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83969",
+                                            "content": "Gonna find ways to say <large>I love you too!</large>",
+                                            "milliseconds": 99136,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272678",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 103468,
+                    "millisecondsStop": 118679,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "365000",
+                            "infoName": "3.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73217",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83970",
+                                            "content": "My mum’s really <large>an angel,</large>",
+                                            "milliseconds": 104523,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73218",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83971",
+                                            "content": "She’s <large>great at caring</large> for me.",
+                                            "milliseconds": 108237,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73219",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83972",
+                                            "content": "She helps make <large>everything better,</large>",
+                                            "milliseconds": 112189,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73220",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83973",
+                                            "content": "She’s <large>all I need</large> her to be!",
+                                            "milliseconds": 115821,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272679",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 119120,
+                    "millisecondsStop": 134000,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "365001",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73221",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83974",
+                                            "content": "Sometimes she is too <large>busy,</large>",
+                                            "milliseconds": 119713,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73222",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83975",
+                                            "content": "Sometimes she is <large>worn out,</large>",
+                                            "milliseconds": 123533,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73223",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83976",
+                                            "content": "But I still know that <large>she loves me,</large>",
+                                            "milliseconds": 127157,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73224",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83977",
+                                            "content": "And that’s what <large>this is about!</large>",
+                                            "milliseconds": 131117,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272680",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 134348,
+                    "millisecondsStop": 150199,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2641",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/1/_3C_2CC8T_2C5_5CQ-_23DT_2C_23_28T_2C3_24Y-C0P-7_29P-_23_28S_3BS_60Y-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "365002",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "73225",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83978",
+                                            "content": "Oh! This is a <large>Mother’s Day song</large> for you.",
+                                            "milliseconds": 135116,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73226",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83979",
+                                            "content": "Mum, you’re <large>ever so special</large> and I’m",
+                                            "milliseconds": 142654,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73227",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83980",
+                                            "content": "Gonna find ways to say <large>I love you too!</large>",
+                                            "milliseconds": 146698,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73228",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83981",
+                                            "content": "<italic>(Repeat)</italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272681",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 150300,
+                    "millisecondsStop": 165450,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2641",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/1/_3C_2CC8T_2C5_5CQ-_23DT_2C_23_28T_2C3_24Y-C0P-7_29P-_23_28S_3BS_60Y-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "365003",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "73229",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83982",
+                                            "content": "Oh! This is a <large>Mother’s Day song</large> for you.",
+                                            "milliseconds": 150400,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73230",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83983",
+                                            "content": "Mum, you’re <large>ever so special</large> and I’m",
+                                            "milliseconds": 157846,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73231",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83984",
+                                            "content": "Gonna find ways to say <large>I love you too!</large>",
+                                            "milliseconds": 161950,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "272682",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 166187,
+                    "millisecondsStop": 181853,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "365004",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "73232",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83985",
+                                            "content": "My mum’s <large>one in a million,</large>",
+                                            "milliseconds": 167366,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73233",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83986",
+                                            "content": "I’m sure that you would <large>agree.</large>",
+                                            "milliseconds": 171245,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73234",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83987",
+                                            "content": "I wouldn’t say that <large>she’s perfect,</large>",
+                                            "milliseconds": 174895,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "73235",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "83988",
+                                            "content": "But she’s the <large>best one</large> for me.",
+                                            "milliseconds": 178770,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "4865",
+                    "metadata": "{\"title\":\"One In A Million!\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2023\",\"album\":\"A Spring Thing\",\"track\":\"14\",\"TBPM\":\"100\"}",
+                    "duration": 186330,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 126,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2300005",
+                    "millisecondsLength": 186330,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3B_2CS4R-3-_3F-S_24V-SDQ-C0V-_23_60U_3CF_5DN_3C_27_25R-C_24X_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS4R-31_3F.3_28Y_2C38W_2C_238V-C0P-7_29O_3BS_60V_3CS_3DN._60_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "7d6ce1c1d5ed55d50a0cb5d357757898",
+                        "ogg": "8d5dc4a5803f7300cfb8badffa37a01f",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4474229",
+                        "ogg": "2477429",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4866",
+                    "metadata": "{\"title\":\"One In A Million!\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark, Helen and Naomi Johnson\",\"genre\":\"Children's Music\",\"date\":\"2023\",\"album\":\"A Spring Thing\",\"track\":\"14\",\"TBPM\":\"126\"}",
+                    "duration": 186320,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 126,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark, Helen and Naomi Johnson",
+                    "infoCopyright": "© 2023 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2300006",
+                    "millisecondsLength": 186320,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CS4S-_23-_3F_2C3_60X_2C3_24X.3_24Q-S8T_2CW_29O-S_25R-_23AR_2C_26X_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3D_2CS4S-_231_3F_2C34T._238Q_2CS0X_2CC8T_2CW_29O-S_28Q_3BFYR_2C7_28_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "66da421657df5e78f828ecb49044b661",
+                        "ogg": "6928326e657abc25e717a6bbaf61e5b9",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4473602",
+                        "ogg": "2396533",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1350",
+                    "type": "Topic/Theme",
+                    "formattedName": "Mother's Day",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1136",
+                    "type": "Song Type",
+                    "formattedName": "Unison",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1143",
+                    "type": "Starting Key",
+                    "formattedName": "E Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1513",
+                    "type": "Vocal Range",
+                    "formattedName": "B-C#",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1190",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Large",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1219",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Syncopation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1257",
+                    "type": "Musical Style",
+                    "formattedName": "Upbeat",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1654",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Appreciation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1652",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Love",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1307",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Thankfulness",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1400",
+                    "type": "Seasonal",
+                    "formattedName": "Spring",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1938",
+                    "type": "Has Video",
+                    "formattedName": "No",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "1730",
+                    "slug": "musical-conversations-1",
+                    "title": "Musical Conversations",
+                    "privateTitle": "Musical Conversations",
+                    "content": "[{\"key\":\"172fcddea8840760\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To recognize use of call-and-response repeated melodies in music<\\/li>\\n\\t<li>To compose call-and-response melodies and play these on instruments, using lyrics on a given theme<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"6b9a8b9677189e5c\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Amplified sound system; Internet; tuned percussion instruments; black\\/white board<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"bdf45fdcd3c2db36\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Using just two notes, <strong>sing some questions and answers<\\/strong>. Starting with the notes F and A, sing a question such as What&rsquo;s your favourite food? Try to arrange the notes as you sing so that you end on the higher note (A), giving the feel of a question. Then, answer (e.g. I like hamburgers) ending on the lower note (F).<\\/p>\\n\\n<p>Next, working in pairs, distribute tuned percussion instruments or keyboards and write a selection of notes on the board to use to compose simple melodies e.g. C E G or D F A. Ask the children to create melodic patterns as a musical <strong>call and response<\\/strong>, one asking questions and the other answering. Suggest a theme for their musical conversation and encourage them to <strong>write lyrics for topics<\\/strong> such as &lsquo;Things they talk about with Mum&rsquo; or &lsquo;Great things Mum does for me&rsquo;. Melodies should be simple and use just a few notes that repeat or echo, like the call-and-response examples in <em>One In A Million! <\\/em>or Chuck Berry&rsquo;s <em>School Day<\\/em>.<\\/p>\\n\\n<p>Children should <strong>write their melodies down<\\/strong> using the names of the notes and some form of notation to help them recall their tunes for the next lesson or even sing for their mums on Mother&rsquo;s Day!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": "<div>Compose call-and-response melodies using voices and instruments to create ‘musical conversations’. This activity involves listening to Chuck Berry’s <em>School Day</em>.</div>",
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1734",
+                            "type": "Music Checklist",
+                            "formattedName": "Structure",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1631",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Notation",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1632",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Compose",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1708",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Genre/History/Musicians",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1635",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "**",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2173",
+                            "title": "One In A Million!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/springthing-cd-1626164464Y5Xbr.jpg",
+                            "duration": 186330,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2193",
+                            "title": "One In A Million!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 186330,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1733",
+                    "slug": "call-and-response-1",
+                    "title": "Call and Response",
+                    "privateTitle": "Call and Response (One In A Million)",
+                    "content": "[{\"key\":\"bf090cf5ebe5e949\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Call-and-response songs<\\/strong> are used a lot in singing and provide opportunities for strong singers to lead others. It is a musical technique that is popular in African music as well as Blues and Rock music. Play Chuck Berry&rsquo;s <em>School Days (Ring! Ring! Goes The Bell)<\\/em>&nbsp;for the children so they can hear the example of the voice and guitar &lsquo;calling&rsquo; and &lsquo;responding&rsquo; to each other throughout the song.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"3ce30e753d08b357\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=DHG5-GxI_Es\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [],
+                    "category": {
+                        "id": "7",
+                        "name": "Spotlight on...",
+                        "color": "#15A881",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2173",
+                            "title": "One In A Million!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/springthing-cd-1626164464Y5Xbr.jpg",
+                            "duration": 186330,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2193",
+                            "title": "One In A Million!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 186330,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "2644",
+                "esongbook": {
+                    "id": "7",
+                    "infoName": "Songs For EVERY Occasion",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "Occasion-2-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/7/8-U_5CS-C_24W_2C_230U_2C30U-3ER-S_40Q-_27_24Q_3BG_28S_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/7/9-U_5CQ_2CCDW_2C_23DQ-_23_40X-34Y_3CC_3CX_2C31Q_2CS1P-0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": true,
+                    "resources": [
+                        {
+                            "id": "41",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "425",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/5/_3B-_23_28U7S_28P_2CC_60Q-3_3CP_2CCDU._23_29S_2CS_24Y_2CCAN-G-R_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "0eb5a0594689ec34b958f441badc5efe",
+                            "pdfFileSize": 42295,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1265",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Changes To Your Content",
+                            "linkUrl": "https://www.outoftheark.co.uk/occ-changes-to-your-content/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1365",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/5/_3B_2C3_2CV-5_5CV-S4Y_2C3DS-3_3CV-_23_60W_2C6XP-_26_5DO.7_24T_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "60e98f0d43d4c77ef3a98a13cf1b2495",
+                            "pdfFileSize": 3265299,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1364",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CV-_25_5CQ-C4P._23_40V-3_28Q-C0P-S_24Y_3C_26_5CV_2CC_29R_3BP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "078cf8c1766fe60c1b731f4e96226671",
+                            "pdfFileSize": 6156609,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1363",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CV_2CU_5CY-S_24Q._234V_2CS_28V-_23_60W_2C3DX_2C_26_5CS-C8P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "c2884a0a4e4782a54e3fce920d4a5489",
+                            "pdfFileSize": 4387682,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1782",
+                            "ordering": 5,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/sfe-occasion-signing-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1888",
+                            "ordering": 7,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "10",
+                            "title": "Harvest Samba",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 188370,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "48",
+                            "title": "Back In School Again",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 134040,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "105",
+                            "title": "The Body Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 73770,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "106",
+                            "title": "Harvest Hymn",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 178410,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "107",
+                            "title": "We Will Remember",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 96010,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "108",
+                            "title": "It’s A Magical Time",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 170960,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "109",
+                            "title": "Because It’s Christmas",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "110",
+                            "title": "Crying Out For Love",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 171470,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "111",
+                            "title": "Hip, Hip, Hooray!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147840,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "112",
+                            "title": "Have You Heard? (He Has Risen!)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 195730,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "113",
+                            "title": "Lord, I Pray (Confession Song)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 179960,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "442",
+                            "title": "This Day",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 175190,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "443",
+                            "title": "Leavers’ Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 163000,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "444",
+                            "title": "When It’s A Sunny Day",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147370,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2193",
+                            "title": "One In A Million!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 186330,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "7",
+                    "infoName": "Songs For EVERY Occasion",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "Occasion-2-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/7/8-U_5CS-C_24W_2C_230U_2C30U-3ER-S_40Q-_27_24Q_3BG_28S_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/7/9-U_5CQ_2CCDW_2C_23DQ-_23_40X-34Y_3CC_3CX_2C31Q_2CS1P-0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": true,
+                    "resources": [
+                        {
+                            "id": "41",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "425",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/5/_3B-_23_28U7S_28P_2CC_60Q-3_3CP_2CCDU._23_29S_2CS_24Y_2CCAN-G-R_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "0eb5a0594689ec34b958f441badc5efe",
+                            "pdfFileSize": 42295,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1265",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Changes To Your Content",
+                            "linkUrl": "https://www.outoftheark.co.uk/occ-changes-to-your-content/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1365",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/5/_3B_2C3_2CV-5_5CV-S4Y_2C3DS-3_3CV-_23_60W_2C6XP-_26_5DO.7_24T_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "60e98f0d43d4c77ef3a98a13cf1b2495",
+                            "pdfFileSize": 3265299,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1364",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CV-_25_5CQ-C4P._23_40V-3_28Q-C0P-S_24Y_3C_26_5CV_2CC_29R_3BP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "078cf8c1766fe60c1b731f4e96226671",
+                            "pdfFileSize": 6156609,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1363",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CV_2CU_5CY-S_24Q._234V_2CS_28V-_23_60W_2C3DX_2C_26_5CS-C8P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImVkZDBlNTQwZjc0ZDkwZjY2MWExOTc3NGQyNTI2ZTVhNGFkNzNiZTIiLCJqdGkiOiJlZGQwZTU0MGY3NGQ5MGY2NjFhMTk3NzRkMjUyNmU1YTRhZDczYmUyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTc5NTQsImlhdCI6MTc2MzI1NjE1NCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fVZ9OaZLxsxvH2c4J-UHDQLso9LsY6zjbua9cHWEB5XB3xbhO-k478-ruCZLYp28tDB4e288qo_A7HWim1DVMHrvKTDnlImt0mYkXNbho_wSIQWTP869U5mnxmoU5wTfy9M57GxCdMiD1COMezwA-JOrDiopfoAuZREOqHkrCl4qk7dTsGbOXFbCTTy11hTeEId947H7jQIPE1Xn_18EuXbgaygETNw2eha47f4s3Ckff1cHCj9Z6dQru5JaTruDnl3-jk1H_Hh_C6oekrQ745k-eknix37L0E4zTJ8dVONOeLCotez8_V8xwl2-lQgtK2lkSgQW4dQ7lqDdlrzA9w",
+                            "pdfFileMd5": "c2884a0a4e4782a54e3fce920d4a5489",
+                            "pdfFileSize": 4387682,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1782",
+                            "ordering": 5,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/sfe-occasion-signing-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1888",
+                            "ordering": 7,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "10",
+                            "title": "Harvest Samba",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 188370,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "48",
+                            "title": "Back In School Again",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 134040,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "105",
+                            "title": "The Body Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 73770,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "106",
+                            "title": "Harvest Hymn",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 178410,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "107",
+                            "title": "We Will Remember",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 96010,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "108",
+                            "title": "It’s A Magical Time",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 170960,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "109",
+                            "title": "Because It’s Christmas",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "110",
+                            "title": "Crying Out For Love",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 171470,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "111",
+                            "title": "Hip, Hip, Hooray!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147840,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "112",
+                            "title": "Have You Heard? (He Has Risen!)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 195730,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "113",
+                            "title": "Lord, I Pray (Confession Song)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 179960,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "442",
+                            "title": "This Day",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 175190,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "443",
+                            "title": "Leavers’ Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 163000,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "444",
+                            "title": "When It’s A Sunny Day",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147370,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2193",
+                            "title": "One In A Million!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 186330,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

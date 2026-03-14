@@ -1,0 +1,2936 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+            "id": "2155",
+            "tempo": 134,
+            "infoName": "Sing Yourself A Happy Song",
+            "infoNameExtractable": "Sing Yourself A Happy Song",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCCLI": "7119883",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 6,
+            "styleBodySize": 32,
+            "styleTitleCol": "CE186F",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "CE186F",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "00CC33",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "9900FF",
+            "styleCol3Unhighlighted": "000000",
+            "styleCol4Highlighted": "FFFFFF",
+            "styleCol4Unhighlighted": "FFFFFF",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 20,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/5/_3C_2CC_24U-5_5CQ-3_24T_2C_23_60Y._23DX-C_2CY_2C_23_40U-G_25O_3BC_2CR-0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+            "fileLargeMD5": "8cb8a1760ade905cfa4a956fda25b52e",
+            "fileLargeSize": 368815,
+            "fileInfo": "songs/info/5/_3A_2CC_24U-5_5CY_2CSDY-S_28P_2CS8S.3_40V._23_60X_3BW_28W_3BW_24_60_0A_60_0A.pdf",
+            "fileInfoMD5": "b0cd58c625b0bba3e9a184790d726105",
+            "fileInfoSize": 415923,
+            "fileLyrics": "songs/lyrics/5/_3B_2CC_24U-5_5CV.30W-_23_24R.3_24V_2CSDX-C_40P._27_21N-S_28V_0A_60_0A.pdf",
+            "fileLyricsMD5": "6a739208fca47c54a34deb27f616cb84",
+            "fileLyricsSize": 333923,
+            "fileScore": "songs/scores/5/_3B_2CC_24U-5_5CY-C_40S-S_60Q-_23_3CV_2CSDX-C_40P._27_24U-G-Q_0A_60_0A.pdf",
+            "fileScoreMD5": "f12752962851cd3aed456a351e686d62",
+            "fileScoreSize": 160019,
+            "title": "Sing Yourself A Happy Song",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/5/_3B_2CC_24U-5_5CV.30W-_23_24R.3_24V_2CSDX-C_40P._27_21N-S_28V_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/5/_3B_2CC_24U-5_5CY-C_40S-S_60Q-_23_3CV_2CSDX-C_40P._27_24U-G-Q_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>This song, in three parts, has a practical application: <em>&lsquo;to make the job a bit easier&rsquo;</em>. A great excuse to sing together, and huge fun.</p>",
+            "teachingTips": "<ul>\r\n\t<li>This song is a great introduction to singing in harmony.</li>\r\n\t<li>The different verses have some big <strong>vocal jumps</strong> in the melody. Make sure voices are warmed up properly to help sing these leaps cleanly. Begin by making a siren sound, going up high and down low. This will help warm up the vocal cords. Then, try using a warm-up like Ear Warm from S!ng Warm-ups.</li>\r\n\t<li>As an introduction to pitching <strong>intervals</strong>, sing up a scale using the numbers 1 2 3 4 5 6 7 8, then back down 8 7 6 5 4 3 2 1. Then try an arpeggio 1 3 5 3 1. Then try other permutations e.g. 1 2 1 3 1 4 1 5 1 6 1 7 1 8.&nbsp;</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [
+                {
+                    "id": "10",
+                    "name": "Extra Energy",
+                    "slug": "extra-energy",
+                    "assembly": {
+                        "id": "5",
+                        "title": "Extra Energy",
+                        "description": "What wakes you up in the morning? From birdsong to sprouting leaves and Easter eggs, this assembly helps us to celebrate all the energy of springtime.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "19",
+                    "name": "Feeling Hopeful",
+                    "slug": "feeling-hopeful",
+                    "assembly": {
+                        "id": "13",
+                        "title": "Feeling Hopeful",
+                        "description": "This assembly explores the meaning of hope and what it will take to realize our ambitions for the future.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "20",
+                    "name": "Feeling Awake",
+                    "slug": "feeling-awake",
+                    "assembly": {
+                        "id": "14",
+                        "title": "Feeling Awake",
+                        "description": "This assembly uses The Parable of the Sower to reflect on what is needed to be ‘awake and ready for action’ in school.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "21",
+                    "name": "Feeling Good",
+                    "slug": "feeling-good",
+                    "assembly": {
+                        "id": "15",
+                        "title": "Feeling Good",
+                        "description": "This assembly explores the uniqueness of human beings and how we can help others to feel more valuable.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                }
+            ],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "2557",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/7/_3B_2CC4U-U_5CY-34P-S_3CS.3DV_2CS8U_2C_23-N._23_3CT_3C_234S_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                    "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                    "filename_size": 23241,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "298274",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 21300,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398083",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122705",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140219",
+                                            "content": "1",
+                                            "milliseconds": 6595,
+                                            "hide": 8165,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "140220",
+                                            "content": "2",
+                                            "milliseconds": 7042,
+                                            "hide": 8165,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "140221",
+                                            "content": "3",
+                                            "milliseconds": 7489,
+                                            "hide": 8165,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "140222",
+                                            "content": "4",
+                                            "milliseconds": 7936,
+                                            "hide": 8165,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398084",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122706",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140223",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 8165,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122707",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140224",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 10830,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122708",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140225",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 14417,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122709",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140226",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 18036,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122710",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140227",
+                                            "content": "<italic>(Repeat)</italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298275",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 21569,
+                    "millisecondsStop": 35678,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398085",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "122711",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140228",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 22472,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122712",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140229",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 25175,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122713",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140230",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 28751,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122714",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140231",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 32358,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298276",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 36146,
+                    "millisecondsStop": 49926,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398086",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "122715",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140232",
+                                            "content": "Sing<large> your song,</large>",
+                                            "milliseconds": 36840,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122716",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140233",
+                                            "content": "Sing your song to<large> make things happen.</large>",
+                                            "milliseconds": 39451,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122717",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140234",
+                                            "content": "Sing<large> your song</large>",
+                                            "milliseconds": 43980,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122718",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140235",
+                                            "content": "And the job will<large> soon be done!</large>",
+                                            "milliseconds": 46657,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298277",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 50468,
+                    "millisecondsStop": 64279,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398087",
+                            "infoName": "3.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "122719",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140236",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 51180,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122720",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140237",
+                                            "content": "Sing to make the<large> job a bit easier.</large>",
+                                            "milliseconds": 54697,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122721",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140238",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 58339,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122722",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140239",
+                                            "content": "Just a<large> simple song.</large>",
+                                            "milliseconds": 61903,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298278",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 64755,
+                    "millisecondsStop": 78656,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398088",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "122723",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140240",
+                                            "content": "<small><italic>(Verse 4: sing verses 1-3 in canon without repeats)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398089",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122724",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140241",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 65456,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122725",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140242",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 68110,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122726",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140243",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 71715,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122727",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140244",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 75339,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298279",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 79102,
+                    "millisecondsStop": 92902,
+                    "styleBodyLeading": 1,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398090",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 2,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 10,
+                            "lines": [
+                                {
+                                    "id": "122728",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140245",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 79839,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122729",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140246",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 82505,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122730",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140247",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 85969,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122731",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140248",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 89604,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398091",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122732",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140249",
+                                            "content": "Sing<large> your song,</large>",
+                                            "milliseconds": 79839,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122733",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140250",
+                                            "content": "Sing your song to<large> make things happen.</large>",
+                                            "milliseconds": 82505,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122734",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140251",
+                                            "content": "Sing<large> your song</large>",
+                                            "milliseconds": 86970,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122735",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140252",
+                                            "content": "And the job will<large> soon be done!</large>",
+                                            "milliseconds": 89604,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298280",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 93125,
+                    "millisecondsStop": 100026,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398092",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122736",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140253",
+                                            "content": "<small><italic>(Verse 5: sing verses 1-3 together)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398093",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 3,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122737",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140254",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 94001,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122738",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140255",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 96806,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398094",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 2,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122739",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140256",
+                                            "content": "Sing<large> your song,</large>",
+                                            "milliseconds": 94001,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122740",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140257",
+                                            "content": "Sing your song to<large> make things happen.</large>",
+                                            "milliseconds": 96808,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398095",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122741",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140258",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 94001,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122742",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140259",
+                                            "content": "Sing to make the<large> job a bit easier.</large>",
+                                            "milliseconds": 97771,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298281",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 100107,
+                    "millisecondsStop": 107272,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398096",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 3,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 40,
+                            "lines": [
+                                {
+                                    "id": "122743",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140260",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 100378,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122744",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140261",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 104018,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398097",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 2,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122745",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140262",
+                                            "content": "Sing<large> your song</large>",
+                                            "milliseconds": 101332,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122746",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140263",
+                                            "content": "And the job will<large> soon be done!</large>",
+                                            "milliseconds": 103953,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398098",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122747",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140264",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 101332,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122748",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140265",
+                                            "content": "Just a<large> simple song.</large>",
+                                            "milliseconds": 104905,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298282",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 107671,
+                    "millisecondsStop": 114600,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398099",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122749",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140266",
+                                            "content": "Sing yourself a<large> happy song,</large>",
+                                            "milliseconds": 108471,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122750",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140267",
+                                            "content": "<large>Sing </large>to help a<large> busy day along.</large>",
+                                            "milliseconds": 111190,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398100",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 2,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122751",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140268",
+                                            "content": "Sing<large> your song,</large>",
+                                            "milliseconds": 108471,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122752",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140269",
+                                            "content": "Sing your song to<large> make things happen.</large>",
+                                            "milliseconds": 111190,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398101",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 3,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122753",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140270",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 108471,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122754",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140271",
+                                            "content": "Sing to make the<large> job a bit easier.</large>",
+                                            "milliseconds": 112275,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298283",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 114700,
+                    "millisecondsStop": 121544,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398102",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122755",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140272",
+                                            "content": "When you find you’ve got a<large> lot to do,</large>",
+                                            "milliseconds": 114827,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122756",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140273",
+                                            "content": "<large>Sing a melody </large>to see it through.",
+                                            "milliseconds": 118362,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398103",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 2,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122757",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140274",
+                                            "content": "Sing<large> your song</large>",
+                                            "milliseconds": 115709,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122758",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140275",
+                                            "content": "And the job will<large> soon be done!</large>",
+                                            "milliseconds": 118339,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398104",
+                            "infoName": "Group 3:",
+                            "styleGroupIndex": 3,
+                            "styleGroupCol": "highlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122759",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140276",
+                                            "content": "Sing up,<large> sing out,</large>",
+                                            "milliseconds": 115709,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122760",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140277",
+                                            "content": "Just a<large> simple song.</large>",
+                                            "milliseconds": 119204,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "298284",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 122317,
+                    "millisecondsStop": 136077,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "398105",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "122761",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140278",
+                                            "content": "<italic><small>(All)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "398106",
+                            "infoName": "6.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "122762",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140279",
+                                            "content": "Sing<large> your song,</large>",
+                                            "milliseconds": 122901,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122763",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140280",
+                                            "content": "Sing your song to<large> make things happen.</large>",
+                                            "milliseconds": 125518,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122764",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140281",
+                                            "content": "Sing<large> your song</large>",
+                                            "milliseconds": 129961,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "122765",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "140282",
+                                            "content": "And the job will<large> soon be done!</large>",
+                                            "milliseconds": 132659,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "4766",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"13\",\"TBPM\":\"134\"}",
+                    "duration": 141070,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 134,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200099",
+                    "millisecondsLength": 141070,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/2/_3C_2CS0W._23_29_3F.3_2CT-_23_24S_2CS_24S-C_2CX._27_60W_2C_23_2CR_3C3_60T._60_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CS0W._23-_3F_2C3_28S_2C30V_2C38W_2C_238S._23AP-S_60U_3C7_28U_2C_23_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "e20fbe4fd2a4a334184f6bb47f45ae31",
+                        "ogg": "5deaa788eee168e7df0cd120fe50bd92",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3387727",
+                        "ogg": "2013806",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4767",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"28\",\"TBPM\":\"134\"}",
+                    "duration": 141070,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 134,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200114",
+                    "millisecondsLength": 141070,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/5/_3D_2CS0W._235_3F_2C3_40U_2C_23_2CX_2C_230W-C8S._23AP-S_25P.3DP_3CC_28_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/6/_3C_2CS0W._239_3F-_23_2CR_2CS0S-S4R-C_2CX._27_60W_2C7_2CW_3BVYS_2CP_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "73b1c0d1d53fa755a9eff2b087d372c8",
+                        "ogg": "b45c8740c550ce43dd09b63bc2e43b6b",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3387727",
+                        "ogg": "2043163",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1134",
+                    "type": "Song Type",
+                    "formattedName": "Layered Song",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1149",
+                    "type": "Starting Key",
+                    "formattedName": "A Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1511",
+                    "type": "Vocal Range",
+                    "formattedName": "B-D#",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1190",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Large",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1210",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Melodic Leaps",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1648",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Group Singing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1219",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Syncopation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1257",
+                    "type": "Musical Style",
+                    "formattedName": "Upbeat",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1288",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Just For Fun",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1935",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Wellbeing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1502",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Growth Mindset",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1641",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Happiness",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1311",
+                    "type": "Topic/Theme",
+                    "formattedName": "Achievement",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1323",
+                    "type": "Topic/Theme",
+                    "formattedName": "Emotions",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1645",
+                    "type": "Topic/Theme",
+                    "formattedName": "Singing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1407",
+                    "type": "Seasonal",
+                    "formattedName": "All Year",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1938",
+                    "type": "Has Video",
+                    "formattedName": "No",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "102",
+                    "slug": "musical-ladders",
+                    "title": "Musical Ladders",
+                    "privateTitle": "Musical Ladders",
+                    "content": "[{\"key\":\"4744ff9552234593\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To hear the difference between musical intervals<\\/li>\\n\\t<li>To identify, play and sing musical intervals<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"e4f1aea9b8e94ff6\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Pieces of paper labelled with letter names of a C major scale; keyboards (notes C-C with stickers on) or pitched percussion (notes C-C)&nbsp;<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"7112a3384fd0d615\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>The melody of this song has some big leaps in it. The musical distance (leap) from one note to another is called an <strong>interval<\\/strong>. Try this activity to practise counting intervals and playing them to <strong>see what they sound like<\\/strong>.<\\/p>\\n\\n<p>Place eight pieces of paper in a vertical line on the floor and label them: C D E F G A B C. This is your &lsquo;musical ladder&rsquo; or <strong>scale<\\/strong>. Ask two volunteers to stand on two of the &lsquo;notes&rsquo;. Count and sing up the steps between the two notes to fi nd the musical interval. Remember to include the start and end notes in your count (e.g. D-A would be a <strong>fifth<\\/strong>, and E-F would be a <strong>second<\\/strong>).<\\/p>\\n\\n<p>When you have identified the interval, ask the class to play it using keyboards or pitched percussion instruments such as glockenspiels, xylophones or chime bars. Can they try singing the intervals, with one person singing the bottom note and the other singing the top one?&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"31355c27db0df3a6\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Can the children think of and <strong>identify any other intervals <\\/strong>outside of the classroom, for example a door bell, a cuckoo, a mobile phone ringtone, the first four notes of the <em>Star Wars Theme<\\/em>, the call &lsquo;yoo hoo&rsquo;? <strong>Musical intervals are all around us!&nbsp;<\\/strong><\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Have fun learning about musical intervals with this musical-ladders activity.</div>",
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1708",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Genre/History/Musicians",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1636",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "***",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "121",
+                    "slug": "rainbow-dance",
+                    "title": "Rainbow Dance",
+                    "privateTitle": "Rainbow Dance",
+                    "content": "[{\"key\":\"1dcd9b7908e4c9ce\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Rainbow Dance <\\/strong>by Len Lye (1936) is a combination of experimental film, jazz and dance and is an inspiring watch! After watching the film, encourage the children to think about what movements spring brings: plants growing; raindrops falling; children running, jumping and skipping in the playground. Then, think about the colours of spring. Create a contemporary dance piece that expresses this collision of movement and colours to showcase in one of your spring assemblies.&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"279afe7bf7efd6b1\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=AHN9IHGQxk8\",\"title\":\"Rainbow Dance\",\"active\":false,\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1400",
+                            "type": "Seasonal",
+                            "formattedName": "Spring",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1685",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 149290,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "817",
+                    "slug": "happy-or-sad-game",
+                    "title": "Happy Or Sad Game",
+                    "privateTitle": "Happy Or Sad Game",
+                    "content": "[{\"key\":\"281343790f419b73\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Think about how our body shape changes when we are happy and when we&rsquo;re sad. Our mouths turn up when we&rsquo;re happy and down when we&rsquo;re sad; our heads tend to drop and our shoulders droop when we&rsquo;re sad; we tend to sit up straight with our heads up when we are happy, but all hunched up when we are sad.<\\/p>\\n\\n<p>Try some &lsquo;happy&rsquo; and &lsquo;sad&rsquo; poses and get the rest of the class to guess your mood. This activity could be done with pipe-cleaner people. Ask the children to bend their &lsquo;person&rsquo; into a happy or a sad pose.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "4-8",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1323",
+                            "type": "Topic/Theme",
+                            "formattedName": "Emotions",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1407",
+                            "type": "Seasonal",
+                            "formattedName": "All Year",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1572",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Personal, Social & Emotional Development",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1411",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Drama",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "953",
+                    "slug": "syncopated-rhythms-1",
+                    "title": "Syncopated Rhythms",
+                    "privateTitle": "Y5 Term 1 Step 3 Activity 4",
+                    "content": "[{\"key\":\"61ae53380787e273\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Ideal for a single session<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"7ec9e28599f39ca3\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To recognize a syncopated rhythm<\\/li>\\n\\t<li>To maintain a syncopated rhythm accurately and in time as a group<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"5fb2117a34261572\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Untuned percussion instruments<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"91c44053c43efc6f\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Syncopated; offbeat; rhythm; polyrhythmic; texture<\\/p>\\n\",\"title\":\"Key vocabulary\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/icons-keyvocab-280x280-27-1620218359Ng3ET.png\"}},{\"key\":\"de0e7b51714c2e49\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>The song choices for this activity use <strong>syncopated rhythms<\\/strong>. Explain that a syncopated rhythm is a placement of notes <strong>off the beat<\\/strong>. However, the best way to understand syncopated rhythms is to get everyone singing them and feeling them!<\\/p>\\n\\n<p>To begin with, choose either <em>Christmas Has Started<\\/em>&nbsp;or&nbsp;<em>Sing Yourself A Happy Song<\\/em>&nbsp;and make sure everyone is <strong>familiar with the first two verses <\\/strong>(and chorus&nbsp;for <em>Christmas Has Started<\\/em>). Select lines from the song and get everyone to clap the rhythm. Is everyone able to clap the rhythm accurately?<\\/p>\\n\\n<p>Next, practise the syncopated rhythm of the title phrase, <em>&lsquo;Christmas has started&rsquo;<\\/em>&nbsp;or <em>&lsquo;Sing yourself a&nbsp;happy song&rsquo;<\\/em>. Get everyone chanting the rhythm first, then try clapping or perhaps perform it using body percussion.&nbsp;<\\/p>\\n\\n<p><strong>Syncopated Rhythm<\\/strong> &ndash; <em>Christmas has started<\\/em><\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"161c9814cd4bf305\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/MusicCurriculum\\/MusicCurr-ASSETS\\/YEAR5\\/year5-musiccurr-syncopatedrhythms953-1634033034vVNUT.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"eac3bcf3568e8ea5\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Syncopated Rhythm<\\/strong>&nbsp;&ndash; <em>Sing yourself a&nbsp;happy song<\\/em><\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"f10c27abe270f303\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/MusicCurriculum\\/MusicCurr-ASSETS\\/YEAR5\\/year5-musiccurr-syncopatedrhythms953-2-1634033034QnMo3.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"6bc0336f411166ca\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Then, play the rhythm on untuned percussion instruments, such as claves, woodblocks or drums. Divide the group in half and get one side to <strong>sing the song<\\/strong> while the other side <strong>plays the syncopated rhythm<\\/strong>. This will produce a <strong>fun, polyrhythmic texture<\\/strong> to accompany the song and will require a good deal of concentration to keep at the same tempo. Swap groups so all have a turn playing the syncopated rhythm.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"a5663d919a3eade9\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Try singing some other songs with a syncopated rhythm in the melody. <em>Harvest Samba, When It&rsquo;s A Sunny Day, Calypso Carol, Mary&rsquo;s Boy Child<\\/em> and <em>&rsquo;S No Problem<\\/em> are all really good examples.<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}},{\"key\":\"3ea1407415039366\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Assessment Suggestions\",\"background_color\":\"#009CCF\"}},{\"key\":\"72ffcab5ec3f0fa1\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>Can they clap syncopated rhythms accurately?<\\/li>\\n\\t<li>Can they maintain rhythms accurately and in time as a group?<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "9-10",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": "/music-curriculum-plan/year/6/term/9/step/24/lesson-plan/83",
+                    "resourceTags": [
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1738",
+                            "type": "Music Checklist",
+                            "formattedName": "Pulse",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1715",
+                            "type": "Music Checklist",
+                            "formattedName": "Texture",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1734",
+                            "type": "Music Checklist",
+                            "formattedName": "Structure",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "4",
+                        "name": "Music Curriculum Activity",
+                        "color": "#F27021",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "10",
+                            "title": "Harvest Samba",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 188370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "304",
+                            "title": "Calypso Carol",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/essentialsxmas-cd-1626164317gjKrL.jpg",
+                            "duration": 166950,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "429",
+                            "title": "Christmas Has Started",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-christmas-cd-1626164971exeOW.jpg",
+                            "duration": 161930,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "444",
+                            "title": "When It’s A Sunny Day",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "450",
+                            "title": "’S No Problem",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-christmas-cd-16261644421hqdy.jpg",
+                            "duration": 134460,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "672",
+                            "title": "Mary’s Boy Child",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/essentialsxmas-cd-1626164317gjKrL.jpg",
+                            "duration": 205790,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1690",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 197190,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2354",
+                            "title": "Christmas Has Started",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/microsoftteams-image-45-17211420698tjLu.png",
+                            "duration": 145680,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "2590",
+                "esongbook": {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjA4YWE0YzRhZTRkMmVjYzU4MjU5MmE2MzI5OTAwY2RjMzZlYmFkNTkiLCJqdGkiOiIwOGFhNGM0YWU0ZDJlY2M1ODI1OTJhNjMyOTkwMGNkYzM2ZWJhZDU5IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyNzEsImlhdCI6MTc2MzI1NTQ3MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.g82XrSPI0TvfIe4Rhml0stbPDeNHZB_AeAtDO665efCJeaqmpaMWY7m9EY0GdJv7Na4s_wsqLmo6SzgIo4Edg-uOFMnP6A9dqp3dgsMgmz3-WiepQxOiYJOU4Bo_M0fFnmz2TdCzrGERl0KFAUEzvLAEHmklUz1o35X96BJxi_mKBUwnRyAHzGqStv1d1pyeExv2sVjx8lB2fcvJaS9Xi1jRRsRTxN-KOAxWg3GHNTpxIOwK68nFVBIE_CBS5Vipu-Bzs2iJyCcspsbSubBXK4IEYCGqndA8qhnpK6u-Fz_vtPATiDoLgVboUy5jGF7zWC_BxeV0eftFiI4-OWUECg",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

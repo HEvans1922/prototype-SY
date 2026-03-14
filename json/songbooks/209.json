@@ -1,0 +1,345 @@
+{
+    "data": {
+        "esongbook": {
+            "id": "209",
+            "infoName": "Songs for EVERY Spring Assembly",
+            "infoAuthor": "Mark, Helen and Naomi Johnson",
+            "seriesId": "1",
+            "imageFilename": "SFESpring-Cover-WEB.jpg",
+            "imageFileOriginal": null,
+            "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+            "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+            "infoCategory": "Song Collections",
+            "linkToOota": false,
+            "esongbookId": null,
+            "excludeResources": false,
+            "resources": [
+                {
+                    "id": "1349",
+                    "ordering": 3,
+                    "type": "pdf",
+                    "title": "Music Activities",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                    "pdfFileSize": 2206254,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1350",
+                    "ordering": 1,
+                    "type": "pdf",
+                    "title": "Song Information",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                    "pdfFileSize": 3163081,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1351",
+                    "ordering": 4,
+                    "type": "pdf",
+                    "title": "Assemblies",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                    "pdfFileSize": 264468,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1352",
+                    "ordering": 6,
+                    "type": "link",
+                    "title": "Videos",
+                    "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                    "pdfFile": null,
+                    "pdfFileMd5": "",
+                    "pdfFileSize": 0,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1353",
+                    "ordering": 7,
+                    "type": "pdf",
+                    "title": "Glossary",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                    "pdfFileSize": 78492,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1354",
+                    "ordering": 5,
+                    "type": "pdf",
+                    "title": "Responsive Stories",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                    "pdfFileSize": 88443,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1355",
+                    "ordering": 9,
+                    "type": "link",
+                    "title": "Out of the Ark Website",
+                    "linkUrl": "https://www.outoftheark.co.uk/",
+                    "pdfFile": null,
+                    "pdfFileMd5": "",
+                    "pdfFileSize": 0,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1356",
+                    "ordering": 2,
+                    "type": "pdf",
+                    "title": "Curriculum Links",
+                    "linkUrl": "",
+                    "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjYyMGU1M2FiOTgxNGIxYzdjN2JhNGEwZWQwZjQyMDFmZjYzMGRkMTYiLCJqdGkiOiI2MjBlNTNhYjk4MTRiMWM3YzdiYTRhMGVkMGY0MjAxZmY2MzBkZDE2IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjU0OTY3MDUsImlhdCI6MTc2NTQ5NDkwNSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.fcsekNixYUzrf9NjD44iHPuod6HGm5U-InQ5lF-G4ohYSJdyZVbbsUsLGQFfG_5uw7kqV0RGwQvtj83yI36Czlvp5FiDFyjOh5h8c9llrz9kvzvwvK3cji9fenG7U58lZKpR-UX4ZoWFkXFlOLAvPSBUD1rHQUlPO_mY6OdjIZuaa8xpG_CtnEyYGl1DoGKZj3EQYKB0b4Fi_b2FZgYKZk7H3k4xo0iwira3gQ7BgHI127f3TRwGUyqLTrnal2r9-MrQF6mqngqmVGSXjVIyMRvRr9FOBQRhjBkcnOyh4fS5OjAP3n_KMHMC44jAtpjjbA6ks8kuc6DQo1GOMztaxg",
+                    "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                    "pdfFileSize": 7126502,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                },
+                {
+                    "id": "1891",
+                    "ordering": 8,
+                    "type": "link",
+                    "title": "Used It? Log It – Reporting Guide",
+                    "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                    "pdfFile": null,
+                    "pdfFileMd5": "",
+                    "pdfFileSize": 0,
+                    "sfxFile": null,
+                    "sfxFileMd5": "",
+                    "sfxFileSize": 0,
+                    "__typename": "EsbResource"
+                }
+            ],
+            "songs": [
+                {
+                    "id": "2141",
+                    "title": "Full Of The Joys!",
+                    "author": "Mark, Helen and Naomi Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 110710,
+                    "pivot": {
+                        "ordering": 2,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2142",
+                    "title": "Songbird",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 176090,
+                    "pivot": {
+                        "ordering": 4,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2143",
+                    "title": "April Showers",
+                    "author": "Mark, Helen and Naomi Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 92760,
+                    "pivot": {
+                        "ordering": 6,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2144",
+                    "title": "As The Sun Rises",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 213160,
+                    "pivot": {
+                        "ordering": 8,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2145",
+                    "title": "The Tadpole Song",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 182030,
+                    "pivot": {
+                        "ordering": 10,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2146",
+                    "title": "You’re The Best Mum For Me!",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 162250,
+                    "pivot": {
+                        "ordering": 12,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2147",
+                    "title": "Ring Out The Bells!",
+                    "author": "Mark, Helen and Naomi Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 212080,
+                    "pivot": {
+                        "ordering": 14,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2148",
+                    "title": "He Is Risen (Easter Blessing)",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 179000,
+                    "pivot": {
+                        "ordering": 15,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2149",
+                    "title": "Goodbye Winter, Hello Spring!",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 119840,
+                    "pivot": {
+                        "ordering": 1,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2150",
+                    "title": "A Perfect Day In Spring",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 143120,
+                    "pivot": {
+                        "ordering": 3,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2151",
+                    "title": "Caterpillar Munch",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 108390,
+                    "pivot": {
+                        "ordering": 5,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2152",
+                    "title": "It’s A Spring Thing!",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 123830,
+                    "pivot": {
+                        "ordering": 7,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2154",
+                    "title": "We’re Making Pancakes",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 139410,
+                    "pivot": {
+                        "ordering": 11,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2155",
+                    "title": "Sing Yourself A Happy Song",
+                    "author": "Mark and Helen Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 141070,
+                    "pivot": {
+                        "ordering": 13,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                },
+                {
+                    "id": "2156",
+                    "title": "Because It’s Springtime!",
+                    "author": "Mark, Helen and Naomi Johnson",
+                    "age": "5-11",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "duration": 97510,
+                    "pivot": {
+                        "ordering": 9,
+                        "__typename": "SongPivot"
+                    },
+                    "__typename": "Song"
+                }
+            ],
+            "__typename": "Esongbook"
+        }
+    }
+}

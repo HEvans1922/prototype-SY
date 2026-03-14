@@ -1,0 +1,2162 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+            "id": "2154",
+            "tempo": 130,
+            "infoName": "We’re Making Pancakes",
+            "infoNameExtractable": "We're Making Pancakes",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCCLI": "7101730",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 6,
+            "styleBodySize": 32,
+            "styleTitleCol": "CE186F",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "CE186F",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "FFFFFF",
+            "styleCol2Unhighlighted": "FFFFFF",
+            "styleCol3Highlighted": "FFFFFF",
+            "styleCol3Unhighlighted": "FFFFFF",
+            "styleCol4Highlighted": "FFFFFF",
+            "styleCol4Unhighlighted": "FFFFFF",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 20,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/4/_3C_2CC_24U-_25_5CQ_2CC8V-_23_60W_2CC_28R-C_2CY_2C_23_40U_2CW_60Y-3AR_2C0_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+            "fileLargeMD5": "8cb8a1760ade905cfa4a956fda25b52e",
+            "fileLargeSize": 368815,
+            "fileInfo": "songs/info/4/_3B_2CC_24U-_25_5CU._23_60Q_2CSDQ_2CC0V_2CSDX-C_3CX_2CV_5CW_2CS_3CY_0A_60_0A.pdf",
+            "fileInfoMD5": "a50a56274fcfe7e8495014ffe36d36d3",
+            "fileInfoSize": 455877,
+            "fileLyrics": "songs/lyrics/4/_3C_2CC_24U-_25_5CQ_2CS_24V.3_3CS_2C38U-C_2CY._238W._23-P-_23_28R_2CP_60_60_0A_60_0A.pdf",
+            "fileLyricsMD5": "8c647f3c8c2a128dea3390deaf7c9fe8",
+            "fileLyricsSize": 375630,
+            "fileScore": "songs/scores/4/_3C_2CC_24U-_25_5CQ_2CS_3CV_2C_23_3CS._23_28Y-C_2CY._238W._23-Q_2C7_24V.0_60_60_0A_60_0A.pdf",
+            "fileScoreMD5": "35935d01f4f8dbee8fdd0e8fb644ed7d",
+            "fileScoreSize": 123611,
+            "title": "We’re Making Pancakes",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/4/_3C_2CC_24U-_25_5CQ_2CS_24V.3_3CS_2C38U-C_2CY._238W._23-P-_23_28R_2CP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/4/_3C_2CC_24U-_25_5CQ_2CS_3CV_2C_23_3CS._23_28Y-C_2CY._238W._23-Q_2C7_24V.0_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>Fun to sing, great to perform and even better to eat! This positive song has a real feel-good factor, with scope for layers of sweet harmonies. Watch out for the sneaky modulation into the final verse, and remember... <em>&lsquo;Don&rsquo;t put too much sugar on the top!&rsquo;</em></p>",
+            "teachingTips": "<ul>\r\n\t<li>This is a catchy, fun song. Encourage the children to smile and look at each other and their audience (real or imaginary!) as they sing.</li>\r\n\t<li>Throughout the song, the voices need to enter on the second beat of the bar. Practise this so no one is caught by surprise! (It will be easier to breathe in the previous bar rather than try to snatch a breath during the crotchet rest on the first beat.)</li>\r\n\t<li>Make sure the syncopation on <em>&lsquo;savoury or sweet&rsquo;</em>, <em>&lsquo;such a special treat&rsquo;</em> and elsewhere is accurate.</li>\r\n\t<li>For variety and added musicality, try out different dynamics for each verse.&nbsp;</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [
+                {
+                    "id": "22",
+                    "name": "Eggs Galore!",
+                    "slug": "eggs-galore",
+                    "assembly": {
+                        "id": "16",
+                        "title": "Eggs Galore!",
+                        "description": "This assembly explores the symbolism of eggs and their place in Pancake Day, Easter and Passover celebrations.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                }
+            ],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "2556",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/6/_3C_2CC4U-E_5CQ_2C_230V_2C3_24V-C_40P-C_2CV-_27_2CW_3CS_24W_2C_27_2CY-0_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                    "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                    "filename_size": 23241,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "271573",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 21021,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 31,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363414",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70150",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80548",
+                                            "content": "1",
+                                            "milliseconds": 4267,
+                                            "hide": 6405,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80549",
+                                            "content": "2",
+                                            "milliseconds": 4728,
+                                            "hide": 6405,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80550",
+                                            "content": "3",
+                                            "milliseconds": 5189,
+                                            "hide": 6405,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80551",
+                                            "content": "4",
+                                            "milliseconds": 5650,
+                                            "hide": 6405,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80552",
+                                            "content": "|",
+                                            "milliseconds": 0,
+                                            "hide": 6405,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80553",
+                                            "content": "1",
+                                            "milliseconds": 6111,
+                                            "hide": 6405,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363415",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70151",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80554",
+                                            "content": "We’re making<large> pancakes, </large>with a few<large> ingredients,</large>",
+                                            "milliseconds": 6405,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70152",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80555",
+                                            "content": "Savoury or<large> sweet.</large>",
+                                            "milliseconds": 11517,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70153",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80556",
+                                            "content": "<large>Pancakes, </large>easy and<large> convenient,</large>",
+                                            "milliseconds": 15004,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70154",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80557",
+                                            "content": "But such a<large> special treat!</large>",
+                                            "milliseconds": 18783,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271574",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "*syrup/chocolate/butter/ice-cream/lemon, whatever the children choose!",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 21100,
+                    "millisecondsStop": 35899,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 30,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363416",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70155",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80558",
+                                            "content": "You’ll love our<large> pancakes, </large>plenty here for<large> everyone,</large>",
+                                            "milliseconds": 21270,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70156",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80559",
+                                            "content": "Eat them<large> while they’re hot,</large>",
+                                            "milliseconds": 26249,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70157",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80560",
+                                            "content": "Serve them up with<large> tasty toppings, </large>but",
+                                            "milliseconds": 29834,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70158",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80561",
+                                            "content": "Don’t put too much<large> sugar* on the top!</large>",
+                                            "milliseconds": 33639,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271575",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 35950,
+                    "millisecondsStop": 50650,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 28,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363417",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 50,
+                            "lines": [
+                                {
+                                    "id": "70159",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80562",
+                                            "content": "<italic><small>(With optional harmony until the end)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363418",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70160",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80563",
+                                            "content": "We’re making<large> pancakes, </large>flipping them and flopping them,",
+                                            "milliseconds": 36023,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70161",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80564",
+                                            "content": "Catch them<large> if you can.</large>",
+                                            "milliseconds": 41004,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70162",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80565",
+                                            "content": "<large>Pancakes, </large>missing them and<large> dropping them</large>",
+                                            "milliseconds": 44650,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70163",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80566",
+                                            "content": "And some half<large> in the pan!</large>",
+                                            "milliseconds": 48321,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271576",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 50700,
+                    "millisecondsStop": 65474,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 29,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363419",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70164",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80567",
+                                            "content": "You’ll love our<large> pancakes, </large>plenty here for<large> everyone,</large>",
+                                            "milliseconds": 50724,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70165",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80568",
+                                            "content": "Eat them<large> while they’re hot,</large>",
+                                            "milliseconds": 55788,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70166",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80569",
+                                            "content": "Serve them up with<large> tasty toppings, </large>but",
+                                            "milliseconds": 59410,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70167",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80570",
+                                            "content": "Don’t put too much<large> sugar* on the top!</large>",
+                                            "milliseconds": 63169,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271577",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 66174,
+                    "millisecondsStop": 94982,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363420",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70168",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80571",
+                                            "content": "<italic>DANCE BREAK</italic>",
+                                            "milliseconds": 66925,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70169",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80572",
+                                            "content": "",
+                                            "milliseconds": 88941,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363421",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "70170",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80573",
+                                            "content": "Pancakes.",
+                                            "milliseconds": 66925,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80574",
+                                            "content": "",
+                                            "milliseconds": 68822,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70171",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80575",
+                                            "content": "Pancakes.",
+                                            "milliseconds": 74325,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80576",
+                                            "content": "",
+                                            "milliseconds": 76378,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70172",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80577",
+                                            "content": "Pancakes.",
+                                            "milliseconds": 81738,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80578",
+                                            "content": "",
+                                            "milliseconds": 83396,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70173",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80579",
+                                            "content": "Serve them up with <large>tasty toppings</large>, but",
+                                            "milliseconds": 88941,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70174",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80580",
+                                            "content": "Don't put too much <large>sugar* on the top!</large>",
+                                            "milliseconds": 92770,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271578",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 95000,
+                    "millisecondsStop": 109756,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 31,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363422",
+                            "infoName": "4.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "70175",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80581",
+                                            "content": "We’re making<large> pancakes, </large>with a few ingredients,",
+                                            "milliseconds": 95074,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70176",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80582",
+                                            "content": "Savoury or<large> sweet.</large>",
+                                            "milliseconds": 100049,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70177",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80583",
+                                            "content": "<large>Pancakes, </large>easy and<large> convenient,</large>",
+                                            "milliseconds": 103722,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70178",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80584",
+                                            "content": "But such a<large> special treat!</large>",
+                                            "milliseconds": 107339,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271579",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 109800,
+                    "millisecondsStop": 132173,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 30,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363423",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "70179",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80585",
+                                            "content": "You’ll love our<large> pancakes, </large>plenty here for<large> everyone,</large>",
+                                            "milliseconds": 109850,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70180",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80586",
+                                            "content": "Eat them<large> while they’re hot,</large>",
+                                            "milliseconds": 114817,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70181",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80587",
+                                            "content": "Serve them up with<large> tasty toppings, </large>and",
+                                            "milliseconds": 118393,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70182",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80588",
+                                            "content": "<large>Serve them up </large>with tasty toppings, and",
+                                            "milliseconds": 122249,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70183",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80589",
+                                            "content": "Serve them up with<large> tasty toppings, </large>but",
+                                            "milliseconds": 125864,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "70184",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80590",
+                                            "content": "Don’t put too much<large> sugar* on the top!</large>",
+                                            "milliseconds": 129629,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "4759",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"36\",\"TBPM\":\"130\"}",
+                    "duration": 139410,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 130,
+                    "infoName": "Harmony 1",
+                    "infoNameExtractable": "Harmony 1",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 139410,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/2/_3D_2CS0U-_23_29_3F_2C3_3CY._23DS_2C_23DX-_238S-C4R-_27_60V_2C_231S-G_24_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/3/_3B_2CS0U-_23-_3F._238R_2C_238R-_23_60V_2CS8U_2CC1P._26_5DO_3BC0V_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "f1bd231de1a3740824fc06457174a969",
+                        "ogg": "5dcdc8ec613e597a40bbcc858cdda379",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3347579",
+                        "ogg": "1866918",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4760",
+                    "metadata": "{\"title\":\"We're Making Pancakes\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"37\",\"TBPM\":\"130\"}",
+                    "duration": 139410,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 130,
+                    "infoName": "Harmony 2",
+                    "infoNameExtractable": "Harmony 2",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 139410,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/8/_3C_2CS0U-_23A_3F._23_40T-S_40V-C_3CR-C_2CV-3_28U_3BC_28T-_23_28R_2C_40_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/9/_3D_2CS0U-_23E_3F_2C3_28Y_2CS_3CP-S_40Y-_238S-C4R-6XT_3CG_24U_2C_26X_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "0c98e784efeafe62353de9a9ec51b082",
+                        "ogg": "b49f5eb7fe92b1681fd72ef16df482f2",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3347611",
+                        "ogg": "1867337",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4761",
+                    "metadata": "{\"title\":\"We're Making Pancakes\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"38\",\"TBPM\":\"130\"}",
+                    "duration": 139410,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 130,
+                    "infoName": "Harmony 3",
+                    "infoNameExtractable": "Harmony 3",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 139410,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS0U-31_3F-_234V-_23_60U-C_40W-C_2CV-3_28U_3CCDV-C4R_3BP_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/5/_3D_2CS0U-35_3F_2C3DT._230T-S4Y.38S-C4R-7_29P-_238W_3C3_24_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "3239b6ea991651e2eecb8d9c30d23ff3",
+                        "ogg": "5a3c59037393c7ae4cc3f21824f103a1",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3347611",
+                        "ogg": "1870813",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4762",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"11\",\"TBPM\":\"130\"}",
+                    "duration": 139410,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 130,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200097",
+                    "millisecondsLength": 139410,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/0/_3C_2CS0W-S_21_3F.3_2CS-C8P.34U-C_2CX._27_60V-3_2CV._23_21P_2C_60_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/1/_3D_2CS0W-S_25_3F_2CC_24Q_2CS4R._23_28U-C8S._23AP-C4V-C_2CS_3CS_24_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "48d65714f522f51022b31b2da3eab1cf",
+                        "ogg": "5ba81c3414837dc0049e08e1f10156cc",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3347603",
+                        "ogg": "1881190",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4763",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"26\",\"TBPM\":\"130\"}",
+                    "duration": 139400,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 130,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200112",
+                    "millisecondsLength": 139400,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CS0W-S-_3F_2C38R-C_60S_2CC_2CQ._238S._23AP-CAO_3C_26XP_2CS_40_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS0W-S1_3F._23DW-30V-C8P-C_2CX._27_60V._27_28X_2CS_24T._60_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "fd0f7ab127c68476d71813f7d18130b2",
+                        "ogg": "e8255218e87895229897de3da9bc55da",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3347603",
+                        "ogg": "1849328",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1133",
+                    "type": "Song Type",
+                    "formattedName": "Harmony",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1143",
+                    "type": "Starting Key",
+                    "formattedName": "E Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1510",
+                    "type": "Vocal Range",
+                    "formattedName": "B-D",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1190",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Large",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1211",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Modulation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1238",
+                    "type": "Musical Style",
+                    "formattedName": "Jazzy",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1288",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Just For Fun",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1330",
+                    "type": "Topic/Theme",
+                    "formattedName": "Food",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1404",
+                    "type": "Seasonal",
+                    "formattedName": "Easter",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1400",
+                    "type": "Seasonal",
+                    "formattedName": "Spring",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "101",
+                    "slug": "creating-a-jazz-style-accompaniment",
+                    "title": "Creating A Jazz-Style Accompaniment",
+                    "privateTitle": "Creating A Jazz-Style Accompaniment",
+                    "content": "[{\"key\":\"7d5697aa8d26cffb\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To explore polyrhythm<\\/li>\\n\\t<li>To create and perform an ostinato as an accompaniment<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"a052042a0ecff570\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Amplified sound system; backing track for this song; percussion instruments&nbsp;<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"465d16951881b049\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>The introduction of this song is rhythmic and syncopated with a laid-back jazz feel. Using percussion instruments, <strong>compose a cool jazz-club-style accompaniment to the song<\\/strong>. Split into three groups and allocate each a set of instruments (e.g. shakers, cabasas, guiros, congas and bongos). First, establish a steady pulse, perhaps by walking on the spot, clapping or patting the chest or knees, so everyone really &lsquo;feels&rsquo; the vibe. Then clap the rhythms below, making sure each group is really secure with their rhythm before transferring it to the instruments.&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"9003e3fcc8b7cbc4\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/MusicActivities\\/musicactivities-creating-a-jazz-style-accompaniment-1616582501cytja.png\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"c31e04c39d244370\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Repeat each rhythm as an <strong>ostinato <\\/strong>throughout the song, first using just the backing track, and then adding the voices. Make sure the accompanying musicians are sensitive to the singers and don&rsquo;t drown them out!&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"0d3c737d2c7c20a3\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Try making your own percussion instruments using <strong>everyday kitchen objects <\\/strong>such as saucepan lids, frying pans, sieves and wooden spoons. If anyone has an old washboard knocking about it will make a perfect guiro!&nbsp;<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Compose a cool jazz-club-style accompaniment to the song using rhythms learned from the song lyrics.</div>",
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1632",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Compose",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1635",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "**",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1672",
+                            "title": "We’re Making Pancakes",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 143650,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "119",
+                    "slug": "pancake-dance-video",
+                    "title": "Pancake Dance Video",
+                    "privateTitle": "Pancake Dance Video",
+                    "content": "[{\"key\":\"821184cffad0d85d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Why not add some choreography for even more&nbsp;fun?&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"9ba20bbac206e8ed\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=xOZlL1nf24E\",\"title\":\"We\\u2019re Making Pancakes Dance Video\",\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1699",
+                    "slug": "pancake-maths",
+                    "title": "Pancake Maths",
+                    "privateTitle": "Pancake Maths",
+                    "content": "[{\"key\":\"3c9a600c0b0c0be4\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Can the children come up with some <strong>maths word problems<\\/strong> to do with making pancakes? For example:<\\/p>\\n\\n<ul>\\n\\t<li>If it takes me 3 minutes to cook 1 pancake, how long will it take to cook 4 pancakes?<\\/li>\\n\\t<li>There are 3 people in my family. I have made 15 pancakes. How many will each person get?<\\/li>\\n\\t<li>I like lemon and sugar on my pancake. My brother likes sugar and banana. My sister likes chocolate and banana. My mum likes strawberries and chocolate and my dad likes just chocolate. Make a tally chart to show the most popular topping.<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1707",
+                    "slug": "pancake-dance-brevideo",
+                    "title": "Pancake Dance Break Video",
+                    "privateTitle": "Pancake Dance Break Video",
+                    "content": "[{\"key\":\"821184cffad0d85d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Use this video to focus on the dance break so you can polish up your moves and really impress your audience!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"9ba20bbac206e8ed\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/youtu.be\\/iou8YPRyXK0\",\"title\":\"We\\u2019re Making Pancakes Dance Break Video\",\"noMargin\":true,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "2589",
+                "esongbook": {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6ImY1MTkyOGFmN2EzN2ZhOWE1YmU1NWUyNTgzZTE0OWJiM2E4NmRmYzIiLCJqdGkiOiJmNTE5MjhhZjdhMzdmYTlhNWJlNTVlMjU4M2UxNDliYjNhODZkZmMyIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcyMjgsImlhdCI6MTc2MzI1NTQyOCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.pbBypyH_7F0-IHY3ik3_az11ilSgeWYxzc3Y10FQr_LalMlOcuHmFNUHtJsPDPoWc4bDHF1ZAGlHSpRMhMQpJfv9OEfj7HykcW8_DxPZuXrQ5SOfbTAFmu8y4qn37TVnu2lrIiMhuDcbD7xWOEM5kInkLoSp4_fFSkJaCX9I-M6CcH2tOS1tQrCc-N7KiqKjJQtQy5RJLNRORMLAOuYCW-KWdEbboo1V2ifMesi3aT4zUlI4tVM4IYedY1BJwhGdTvfbpd1Pk0F3kFsXH_4XSYLKK2UQnuMgjkfArvUwurPDrvi07nSRT6heERb_ZX-PDlFepaamMYDVydlwTJ68LA",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

@@ -1,0 +1,2658 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+            "id": "2148",
+            "tempo": 58,
+            "infoName": "He Is Risen (Easter Blessing)",
+            "infoNameExtractable": "He Is Risen (Easter Blessing)",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2018 & 2022 Out of the Ark Ltd",
+            "infoCCLI": "7119879",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 6,
+            "styleBodySize": 36,
+            "styleTitleCol": "CE186F",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "CE186F",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "00CC33",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "9900FF",
+            "styleCol3Unhighlighted": "000000",
+            "styleCol4Highlighted": "FFFFFF",
+            "styleCol4Unhighlighted": "FFFFFF",
+            "styleCol5Highlighted": "FFFFFF",
+            "styleCol5Unhighlighted": "FFFFFF",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/8/_3C_2CC_24T._25_5CQ_2C_230X_2C_23_40Q-S_2CT-C_2CY_2C_23_40U_3BC-Q_2CF_5CU_3C_60_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+            "fileLargeMD5": "8cb8a1760ade905cfa4a956fda25b52e",
+            "fileLargeSize": 368815,
+            "fileInfo": "songs/info/8/_3B_2CC_24T._25_5CT_2C_23_2CR_2CC8P-S_24V_2CSDX-C_40Y_3C_26_5CV.6YP_0A_60_0A.pdf",
+            "fileInfoMD5": "e9c479c26b50696fa9f3c6901cae1644",
+            "fileInfoSize": 482030,
+            "fileLyrics": "songs/lyrics/8/_3C_2CC_24T._25_5CQ_2C3DU_2CC_60U-C_28Y-C_2CY._238X.7_21P-_27_28W_3C_40_60_60_0A_60_0A.pdf",
+            "fileLyricsMD5": "7d9bc00c2c5617a1480a617219fbe013",
+            "fileLyricsSize": 405781,
+            "fileScore": "songs/scores/8/_3B_2CC_24T._25_5CV-C_28T-38Q_2CS_60V_2CSDX-C_40Y_3C_27_24Q._26_5DN_0A_60_0A.pdf",
+            "fileScoreMD5": "d5fb7f3f9000cfccd3fdc5ba2ab1c54e",
+            "fileScoreSize": 111318,
+            "title": "He Is Risen (Easter Blessing)",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/8/_3C_2CC_24T._25_5CQ_2C3DU_2CC_60U-C_28Y-C_2CY._238X.7_21P-_27_28W_3C_40_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/8/_3B_2CC_24T._25_5CV-C_28T-38Q_2CS_60V_2CSDX-C_40Y_3C_27_24Q._26_5DN_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>A song of blessing and declaration for Easter assemblies and services. Part-singing and harmonies are also included.&nbsp;</p>",
+            "teachingTips": "<ul>\r\n\t<li>The best way to learn this song is to listen to it a good few times. Put it on in the background as you work on some creative Easter crafts and you&rsquo;ll find when you come to sing it, so much is already embedded.</li>\r\n\t<li>It can be easy to go out of tune (flat) when singing a downward phrase such as <em>&lsquo;He is risen! Love is here&rsquo;</em> and <em>&lsquo;Hallelujah&rsquo;</em>. To encourage the children to &lsquo;think&rsquo; upwards as they sing down, ask them to raise their arms in front of them, as if lifting the air.</li>\r\n\t<li>Make sure that the long notes on <em>&lsquo;Je-sus&rsquo; </em>in bars 32-33, and again in the final two bars, are held for their full lengths, and that everybody comes off together so that there are no hissing snakes on the final <em>&lsquo;s&rsquo;</em>!&nbsp;</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [
+                {
+                    "id": "19",
+                    "name": "Feeling Hopeful",
+                    "slug": "feeling-hopeful",
+                    "assembly": {
+                        "id": "13",
+                        "title": "Feeling Hopeful",
+                        "description": "This assembly explores the meaning of hope and what it will take to realize our ambitions for the future.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "22",
+                    "name": "Eggs Galore!",
+                    "slug": "eggs-galore",
+                    "assembly": {
+                        "id": "16",
+                        "title": "Eggs Galore!",
+                        "description": "This assembly explores the symbolism of eggs and their place in Pancake Day, Easter and Passover celebrations.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "23",
+                    "name": "Good Or Sad Friday?",
+                    "slug": "good-or-sad-friday",
+                    "assembly": {
+                        "id": "17",
+                        "title": "Good Or Sad Friday?",
+                        "description": "This assembly explores the emotions of happiness and sadness and reflects on whether Easter is a sad or happy time for Christians.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "24",
+                    "name": "Easter Message",
+                    "slug": "easter-message",
+                    "assembly": {
+                        "id": "18",
+                        "title": "Easter Message",
+                        "description": "This assembly uses the idea of code-breaking to help consider the special message of Easter.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                }
+            ],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "2542",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/2/_3A_2CC4T_2CE_5CW-3_28W_2CS_28P_2C_238S-7_24V_2C_23DX_3BC4T_2C6_5C_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "filename_md5": "d6610cb657f6e1b205be557f3595f5ea",
+                    "filename_size": 4876,
+                    "__typename": "Cloud"
+                },
+                {
+                    "id": "2543",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                    "filename_size": 23241,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "271476",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 27705,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363278",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69699",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80040",
+                                            "content": "1",
+                                            "milliseconds": 6922,
+                                            "hide": 10930,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80041",
+                                            "content": "2",
+                                            "milliseconds": 7956,
+                                            "hide": 10930,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80042",
+                                            "content": "|",
+                                            "milliseconds": 0,
+                                            "hide": 10930,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80043",
+                                            "content": "1",
+                                            "milliseconds": 8991,
+                                            "hide": 10930,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "80044",
+                                            "content": "2",
+                                            "milliseconds": 10025,
+                                            "hide": 10930,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69700",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80045",
+                                            "content": "<italic><small>(Solo)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363279",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69701",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80046",
+                                            "content": "Now may the<large><bold> love </bold></large>that’s in<large> Jesus Christ</large>",
+                                            "milliseconds": 10940,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69702",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80047",
+                                            "content": "Be with you<large> this Easter</large>",
+                                            "milliseconds": 15057,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69703",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80048",
+                                            "content": "And may the<large> knowledge </large>that<large> He’s alive</large>",
+                                            "milliseconds": 19271,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69704",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80049",
+                                            "content": "Stay with<large> you forever.</large>",
+                                            "milliseconds": 23338,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271477",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 28816,
+                    "millisecondsStop": 48179,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363280",
+                            "infoName": "   ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 55,
+                            "lines": [
+                                {
+                                    "id": "69705",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80050",
+                                            "content": "<italic><small>(All)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69706",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80051",
+                                            "content": "Now may the<large><bold> love </bold></large>that’s in<large> Jesus Christ</large>",
+                                            "milliseconds": 31499,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69707",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80052",
+                                            "content": "Be with you<large> this Easter</large>",
+                                            "milliseconds": 35817,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69708",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80053",
+                                            "content": "And may the<large> knowledge </large>that<large> He’s alive</large>",
+                                            "milliseconds": 39866,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69709",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80054",
+                                            "content": "Stay with<large> you forever.</large>",
+                                            "milliseconds": 44005,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271478",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 48185,
+                    "millisecondsStop": 70813,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363281",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 130,
+                            "lines": [
+                                {
+                                    "id": "69710",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80055",
+                                            "content": "He is risen!<large> Love is here!</large>",
+                                            "milliseconds": 48350,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69711",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80056",
+                                            "content": "<large>Hallelujah!</large>",
+                                            "milliseconds": 56462,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69712",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80057",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 60496,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69713",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80058",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 64829,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271479",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 72234,
+                    "millisecondsStop": 93566,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363282",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "69714",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80059",
+                                            "content": "Now may the<large><bold> hope </bold></large>that’s in<large> Jesus Christ</large>",
+                                            "milliseconds": 77252,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69715",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80060",
+                                            "content": "Be with you<large> this Easter</large>",
+                                            "milliseconds": 81283,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69716",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80061",
+                                            "content": "And may the<large> knowledge </large>that<large> He’s alive</large>",
+                                            "milliseconds": 85348,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69717",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80062",
+                                            "content": "Stay with<large> you forever.</large>",
+                                            "milliseconds": 89617,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271480",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 93570,
+                    "millisecondsStop": 106114,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363283",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "69718",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80063",
+                                            "content": "He is risen!<large> Love is here!</large>",
+                                            "milliseconds": 93625,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69719",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80064",
+                                            "content": "<large>Hallelujah!</large>",
+                                            "milliseconds": 102067,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363284",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69720",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80065",
+                                            "content": "<italic><small>(Harmony part)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69721",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80066",
+                                            "content": "He is risen indeed! God’s<large> love is here!</large>",
+                                            "milliseconds": 93625,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69722",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80067",
+                                            "content": "<large>Hallelujah!</large>",
+                                            "milliseconds": 102067,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271481",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 106115,
+                    "millisecondsStop": 116622,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363285",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "69723",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80068",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 106183,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69724",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80069",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 110272,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363286",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69725",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80070",
+                                            "content": "<italic><small>(Harmony part)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69726",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80071",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 106183,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69727",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80072",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 110272,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271482",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 117702,
+                    "millisecondsStop": 139168,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "363287",
+                            "infoName": "3.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 100,
+                            "lines": [
+                                {
+                                    "id": "69728",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80073",
+                                            "content": "Now may the<large><bold> joy </bold></large>that’s in<large> Jesus Christ</large>",
+                                            "milliseconds": 122367,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69729",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80074",
+                                            "content": "Be with you<large> this Easter</large>",
+                                            "milliseconds": 126867,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69730",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80075",
+                                            "content": "And may the<large> knowledge </large>that<large> He’s alive</large>",
+                                            "milliseconds": 130901,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69731",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80076",
+                                            "content": "Stay with<large> you forever.</large>",
+                                            "milliseconds": 135084,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271483",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 139170,
+                    "millisecondsStop": 151489,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363288",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "69732",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80077",
+                                            "content": "He is risen!<large> Love is here!</large>",
+                                            "milliseconds": 139275,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69733",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80078",
+                                            "content": "<large>Hallelujah!</large>",
+                                            "milliseconds": 147504,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363289",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69734",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80079",
+                                            "content": "<italic><small>(Harmony part)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69735",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80080",
+                                            "content": "He is risen indeed! God’s<large> love is here!</large>",
+                                            "milliseconds": 139275,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69736",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80081",
+                                            "content": "<large>Hallelujah!</large>",
+                                            "milliseconds": 147504,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271484",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 151490,
+                    "millisecondsStop": 160053,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363290",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "69737",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80082",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 151638,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69738",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80083",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 155838,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363291",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69739",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80084",
+                                            "content": "<italic><small>(Harmony part)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69740",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80085",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 151638,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69741",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80086",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 155838,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "271485",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "Chorus",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 160060,
+                    "millisecondsStop": 171389,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "2543",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3C_2CC4T_2CU_5CQ_2C_23_40U_2CS_40W-3_28P-C_2CU_3C38Q_2C_23_25R.30Y._60_60_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "filename_md5": "8b0220387c07f6292eee6d6155912feb",
+                            "filename_size": 23241,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "363292",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "69742",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80087",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 160065,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69743",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80088",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 164172,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "363293",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "69744",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80089",
+                                            "content": "<italic><small>(Harmony part)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": false,
+                                            "isHighlightable": false,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69745",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80090",
+                                            "content": "Death has<large> been defeated</large>",
+                                            "milliseconds": 160065,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "69746",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "80091",
+                                            "content": "By the<large> life of Jesus!</large>",
+                                            "milliseconds": 164172,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "4733",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"15\",\"TBPM\":\"58\"}",
+                    "duration": 179000,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 58,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200101",
+                    "millisecondsLength": 179000,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/0/_3D_2CS0X_2C_23_21_3F_2C3_60R_2CC_60T.3DQ-38S._23AP-W-S_3CFYN_3C_27_28_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/1/_3C_2CS0X_2C_23_25_3F-_23_28W-S4Q_2CS_40U-C_2CX._27_60X_2C_23_2CV-_26YN-P_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "03096de0fd3b38a18f264ea266bd833c",
+                        "ogg": "7284a9945a2d847eb05669f1094732c9",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4298041",
+                        "ogg": "2546881",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4734",
+                    "metadata": "{\"title\":\"He Is Risen (Easter Blessing)\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Song For Every Spring Assembly\",\"track\":\"30\",\"TBPM\":\"58\"}",
+                    "duration": 179170,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 58,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN2200116",
+                    "millisecondsLength": 179170,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/7/_3D_2CS0W.3_3D_3F_2C3_40Q_2CC_3CQ-3DW_2CS8S._23AP-W_24V-6YP-_27_28_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/8/_3C_2CS0W.3A_3F_2CC_60X_2C_238T_2C3_2CP-C_2CX._27_60W_3C3EP-G_24T_3BP_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "85e0e7ca27cfe38dced6cb7b8b8798b6",
+                        "ogg": "40343403fa62874805d775f370b5998f",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4301841",
+                        "ogg": "2502244",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "4735",
+                    "metadata": "{\"title\":\"He Is Risen (Easter Blessing)\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2022\",\"album\":\"Songs For Every Spring Assembly\",\"track\":\"15\",\"TBPM\":\"58\"}",
+                    "duration": 179190,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "vocal",
+                    "tempo": 58,
+                    "infoName": "Harmony",
+                    "infoNameExtractable": "Harmony",
+                    "infoArtist": "Mark and Helen Johnson",
+                    "infoCopyright": "© 2018 & 2022 Out of the Ark Ltd",
+                    "infoISRC": "",
+                    "millisecondsLength": 179190,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CS0X-31_3F-C_3CP_2C34Y_2C3_24V-C_2CY_3BG_2CS-FYR_3CS_21P_3BP_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/5/_3C_2CS0X-35_3F._234U-C0T_2C3_3CV-C_2CY_3BG_2CS-G_28W_2CW_24Y_3B_40_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "d2c1bf0533e2bf47e89491e59c916e2b",
+                        "ogg": "edc1ced695daeb105a8cefd9f2d3e4a3",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4302444",
+                        "ogg": "2507721",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1133",
+                    "type": "Song Type",
+                    "formattedName": "Harmony",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1141",
+                    "type": "Starting Key",
+                    "formattedName": "D Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1510",
+                    "type": "Vocal Range",
+                    "formattedName": "B-D",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1190",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Large",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1197",
+                    "type": "Time Signature",
+                    "formattedName": "6/8",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1206",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Cross Rhythms",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1213",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Part Singing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1221",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Time Signature",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1504",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Solo/Small-group Singing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1223",
+                    "type": "Musical Style",
+                    "formattedName": "Anthemic",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1284",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Collective Worship",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1294",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Hope",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1307",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Thankfulness",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1317",
+                    "type": "Topic/Theme",
+                    "formattedName": "Celebration",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1656",
+                    "type": "Topic/Theme",
+                    "formattedName": "Resurrection",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1657",
+                    "type": "Topic/Theme",
+                    "formattedName": "Eternal Life",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1404",
+                    "type": "Seasonal",
+                    "formattedName": "Easter",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1420",
+                    "type": "Curriculum Subject Links",
+                    "formattedName": "RE",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "109",
+                    "slug": "exploring-compound-time",
+                    "title": "Exploring Compound Time",
+                    "privateTitle": "Exploring Compound Time",
+                    "content": "[{\"key\":\"79849abfd7682213\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To begin to understand the construction of a time signature<\\/li>\\n\\t<li>To internalize a pulse<\\/li>\\n\\t<li>To improvise a piece of body percussion in&nbsp;\\ue09e\\ue086\\ue09f\\ue088<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"b5be392592fec1f9\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Your body!&nbsp;<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"593d1c7bc4ff0987\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>This song is in a \\ue09e\\ue086\\ue09f\\ue088&nbsp; <strong>time signature. <\\/strong>Listen to the backing track (the second verse onwards, when the drums come in, will be easiest) and ask the children to clap or step along to the beat (<strong>pulse<\\/strong>) of the music. Some children may clap a slow pulse (two <strong>dotted-crotchet <\\/strong>beats per bar) and others may clap quickly (with six <strong>quaver <\\/strong>beats per bar). \\ue09e\\ue086\\ue09f\\ue088&nbsp; is&nbsp;known as a <strong>compound time signature <\\/strong>because, most commonly, each bar is divided into two beats of three quavers.<\\/p>\\n\\n<p>Now, split the class into two groups and have one clap the quaver pulse with a slight accent on the first quaver (<strong>1 <\\/strong>2 3 4 5 6) and the other clap the dotted crotchets (<strong>1<\\/strong>-and-a <strong>2<\\/strong>-and-a). Now swap over. Can they &lsquo;stamp&rsquo; or move from one foot to the other in a dotted-crotchet pulse, whilst clapping the quavers? Now, try tapping the quaver beats on the left leg, and the dotted-crotchet pulse on the right leg. (Or tap with both hands on a desk top if you prefer.) Now swap over hands. This is tricky, but good for the brain!&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"1ce59bcfb357624b\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Introduce one other common \\ue09e\\ue086\\ue09f\\ue088&nbsp; rhythm (<strong>1<\\/strong> 2 <strong>3<\\/strong> <strong>4<\\/strong> 5 <strong>6<\\/strong> ). In small groups, using their three rhythms, can the class make up a piece of <strong>body percussion<\\/strong>? Use stamping, clapping, tapping, patting the knees, clicking fingers &ndash; anything goes, as long as it is rhythmic and in time!&nbsp;<\\/p>\\n\",\"title\":\"Step It Up!\",\"noMargin\":true,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1873-1614695091mFFrP.png\"}},{\"key\":\"9be56ea3b76d63f2\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/MusicActivities\\/musicactivities-exploringcompundtime-1621340713pxkOj.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"9096af10e33d15ac\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Lots of <strong>nursery rhymes <\\/strong>are written with a \\ue09e\\ue086\\ue09f\\ue088&nbsp; time signature: <em>Hickory Dickory Dock, Hey Diddle Diddle, Humpy Dumpty, Pop Goes The Weasel, Ring A Ring O&rsquo; Roses<\\/em>. Do the class know any of these? Could they incorporate any rhythms from these songs into their body percussion pieces?&nbsp;<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":true,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Explore the compound time signature of this song using stamping, clapping, patting, tapping and clicking fingers!</div>",
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1632",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Compose",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1708",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Genre/History/Musicians",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1636",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "***",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1694",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 217960,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "120",
+                    "slug": "revelations-dance",
+                    "title": "Revelations Dance",
+                    "privateTitle": "Revelations Dance",
+                    "content": "[{\"key\":\"7993e3f2ab83b89a\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>This is a useful and informative dance to watch around <strong>Easter <\\/strong>time. Alvin Ailey (1960) created this three-part dance about African-American history, which depicts the struggle from slavery to freedom. Its story can be interpreted to be more generally about struggle and conflict within oneself, but how <strong>holding on to faith<\\/strong> can pull you through. The <em>Take Me To&nbsp;The Water <\\/em>baptism scene is a good reference when thinking about Easter: the dancers perform as if they are being &lsquo;reborn&rsquo;, fitting the story of the resurrection. The final section is performed as the dancers rejoice in church.&nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"ef1cba01667bc607\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=RrPJ4kt3a64\",\"title\":\"Alvin Ailey's Revelations\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"af267592355beab9\",\"layout\":\"video\",\"attributes\":{\"url\":\"\",\"title\":\"The dancers discuss what the dance means to them\",\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1658",
+                            "type": "Values (PSHE, SMSC)",
+                            "formattedName": "Faith",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1662",
+                            "type": "Topic/Theme",
+                            "formattedName": "Easter",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1656",
+                            "type": "Topic/Theme",
+                            "formattedName": "Resurrection",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1660",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Dance",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1420",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "RE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "1674",
+                            "title": "As The Sun Rises",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 241810,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1693",
+                            "title": "Ring Out The Bells!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 239390,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1694",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/spring-assemblysongs-cd-16261644625fCEw.jpg",
+                            "duration": 217960,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1246",
+                    "slug": "easter-story-emotions",
+                    "title": "Easter Story Emotions",
+                    "privateTitle": "Easter Story Emotions",
+                    "content": "[{\"key\":\"2f8fd7de4e0b8849\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Talk about all the different emotions that can be felt through the Easter story:<\\/strong> sadness; joy; hope; despair; anger; confusion; jealousy; faith; doubt; belief. Can the children relate any of these emotions to times or events in their own lives?<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1572",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Personal, Social & Emotional Development",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1568",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Understanding the World",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "117",
+                            "title": "Easter Jubilation",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-easter-cd-1626164425BVQdq.jpg",
+                            "duration": 148630,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "120",
+                            "title": "Mary’s Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-easter-cd-1626164425BVQdq.jpg",
+                            "duration": 174000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "122",
+                            "title": "Risen!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-easter-cd-1626164425BVQdq.jpg",
+                            "duration": 210370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "124",
+                            "title": "He’s Alive!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-easter-cd-1626164425BVQdq.jpg",
+                            "duration": 187970,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "221",
+                            "title": "Easter Prayer",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/springthing-cd-1626164464Y5Xbr.jpg",
+                            "duration": 180160,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "475",
+                            "title": "Celebrate",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-easter-cd-1626164425BVQdq.jpg",
+                            "duration": 142310,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1476",
+                            "title": "Celebrate",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sc-celebrate-1672759673mQ7aL.jpg",
+                            "duration": 142310,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2126",
+                            "title": "Mary’s Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sc-hosanna-1672759674jMFPM.jpg",
+                            "duration": 174000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2139",
+                            "title": "Risen!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sc-hosanna-1672759674jMFPM.jpg",
+                            "duration": 210370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "2584",
+                "esongbook": {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "209",
+                    "infoName": "Songs for EVERY Spring Assembly",
+                    "infoAuthor": "Mark, Helen and Naomi Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFESpring-Cover-WEB.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/_3A_2CC_60Y7S4Y_2CS_40R-3_28P-S8S.3_60W_3CW_2CT_2C7_24R_3BW_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/_3A_2CC_60Y7S_24T-S8T_2C3DQ_2C38S.3_60W_3CW_2CT_2CS_21Q-_23_24_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "1349",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3C_2C3_2CT.5_5CQ-C_24X_2CC_40P_2C3DW-C_2CY._238Q_2CSER_3C3_28U_3C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "5ff9270473d32a0a8ac82e6eb0fb445f",
+                            "pdfFileSize": 2206254,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1350",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/_3B_2C3_2CU_2C_25_5CQ-C_60Y_2CC_2CY._238V_2CSDX-C_24U.7_21O-F_5DS_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "69587e151a5cf088398617759a8695f2",
+                            "pdfFileSize": 3163081,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1351",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Assemblies",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/1/_3B_2C3_2CU_2C5_5CY_2C_23_28T.34V_2C_234V_2CSDX-C_24W_2C_23_25N_2CW-P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "8fb6c66a73b3be00018817dacdd2ee01",
+                            "pdfFileSize": 264468,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1352",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/songs-for-every-spring-assembly-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1353",
+                            "ordering": 7,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3B_2C3_2CU_2CU_5CU_2C_23DX.3DT-S0V_2CSDX-C_28P_2CC_3DO_3BS_2CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "a3cc12088d816a5e554bf014ff48a253",
+                            "pdfFileSize": 78492,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1354",
+                            "ordering": 5,
+                            "type": "pdf",
+                            "title": "Responsive Stories",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/4/_3C_2C3_2CU-_25_5CQ_2C30U-_230U_2C3_28T-C_2CY._238R_2C7_2CS-C_2CY_2C_60_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "ea0d33af5a2315c860685e2976ac3a21",
+                            "pdfFileSize": 88443,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1355",
+                            "ordering": 9,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "https://www.outoftheark.co.uk/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1356",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_2CU-E_5CR.3_28P_2CC_2CV_2C30V_2CSDX-FYP_3CS_3CW._23_3CY_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjliOWY2Zjc5OTMzNTIzMWY1ZDNhOTM5MmZmNmY5MGI0YzI1YTZhZWEiLCJqdGkiOiI5YjlmNmY3OTkzMzUyMzFmNWQzYTkzOTJmZjZmOTBiNGMyNWE2YWVhIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6Mzc3NDQ1LCJleHAiOjE3NjMyNTcxMTIsImlhdCI6MTc2MzI1NTMxMiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.OpEBv-BthErAaafAYFRycKmySOD_diWXzXHwfSj0ZaoFUSwpVQJ0-uU12bGpVo-XYtpUVDKCau4mSF5vMnKg-_GE3B-FX4gF5XyJanfWQuxLpro-bLtmgkGyT1Cyiwrg2RCcNtDB-6qGUWVcu4TxJ3doScNpCBT2jJ3MUAvmHIaV8Cg24TMiWsq_k1ICWSfppfrMPHC-81FKvG4EWCOvhipGYi-vXDCHbWyolBWRZ46V8l3yK_jf-oem9E49aQdKJpPz387NvcI4eKvgFzO_qZ_VGDDZHTXh-6wu0tzChY08SqARtfHyjZ3FRVwF-VVhQ4wZqoccwD7hwP9f3tb28g",
+                            "pdfFileMd5": "b7e3674ee4a064b0bd27285d65171ac7",
+                            "pdfFileSize": 7126502,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1891",
+                            "ordering": 8,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "2141",
+                            "title": "Full Of The Joys!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 110710,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2142",
+                            "title": "Songbird",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 176090,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2143",
+                            "title": "April Showers",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 92760,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2144",
+                            "title": "As The Sun Rises",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 213160,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2145",
+                            "title": "The Tadpole Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 182030,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2146",
+                            "title": "You’re The Best Mum For Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 162250,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2147",
+                            "title": "Ring Out The Bells!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 212080,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2148",
+                            "title": "He Is Risen (Easter Blessing)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 179000,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2149",
+                            "title": "Goodbye Winter, Hello Spring!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 119840,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2150",
+                            "title": "A Perfect Day In Spring",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 143120,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2151",
+                            "title": "Caterpillar Munch",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 108390,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2152",
+                            "title": "It’s A Spring Thing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 123830,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2154",
+                            "title": "We’re Making Pancakes",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 139410,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2155",
+                            "title": "Sing Yourself A Happy Song",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 141070,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2156",
+                            "title": "Because It’s Springtime!",
+                            "author": "Mark, Helen and Naomi Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-spring-cd-1671110203PuZfK.png",
+                            "duration": 97510,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}
