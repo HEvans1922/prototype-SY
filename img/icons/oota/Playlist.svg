@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Playlist</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Playlist" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M114,118.694008 L114,30 L114,26.5366211 L119.998955,30 L120.031738,30 L120.248089,30.1438326 L150.310889,47.5 L144.310889,57.8923048 L126,47.3205081 L126,132 L125.912352,132 C125.970364,132.494043 126,132.994365 126,133.5 C126,142.612698 116.374122,150 104.5,150 C92.6258779,150 83,142.612698 83,133.5 C83,124.387302 92.6258779,117 104.5,117 C107.91039,117 111.135322,117.609384 114,118.694008 Z" id="Combined-Shape" fill="#8BC53F"></path>
+        <rect id="Rectangle" fill="#8BC53F" x="0" y="0" width="100" height="15"></rect>
+        <rect id="Rectangle-Copy" fill="#8BC53F" x="0" y="30" width="100" height="15"></rect>
+        <rect id="Rectangle-Copy-2" fill="#8BC53F" x="0" y="60" width="100" height="15"></rect>
+        <rect id="Rectangle-Copy-3" fill="#8BC53F" x="0" y="90" width="100" height="15"></rect>
+        <rect id="Rectangle-Copy-4" fill="#8BC53F" x="0" y="120" width="68" height="15"></rect>
+    </g>
+</svg>

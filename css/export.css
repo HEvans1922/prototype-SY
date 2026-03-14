@@ -1,0 +1,157 @@
+/* Toggle button (when panel is closed) */
+.export-doc-toggle {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  border: none;
+  font: 500 1.5rem system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #1f2933;
+  color: #fff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  z-index: 900;
+}
+
+/* The floating panel itself */
+.export-doc-panel {
+  position: fixed;
+  right: 1.5rem;
+  top: 1.5rem;
+  width: 320px;
+  max-height: 70vh;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 18px 35px rgba(15, 23, 42, 0.35);
+  display: none;
+  /* JS will switch this to block/flex when open */
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 950;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* If you want a "open" class to control visibility */
+.export-doc-panel.is-open {
+  display: flex;
+}
+
+.export-doc-header {
+  padding: 0.75rem 0.9rem;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  color: black;
+}
+
+.export-doc-subtitle {
+  display: block;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.export-doc-header-buttons {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.export-doc-clear,
+.export-doc-close {
+  border: none;
+  background: transparent;
+  font-size: 0.8rem;
+  color: #6b7280;
+  cursor: pointer;
+}
+
+.export-doc-close {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+/* List area */
+.export-doc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0.4rem 0.9rem 0.4rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.export-doc-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid rgba(229, 231, 235, 0.7);
+}
+
+.export-doc-item--empty {
+  color: grey;
+}
+
+.export-doc-item:last-child {
+  border-bottom: none;
+}
+
+.export-doc-item-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.export-doc-title {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #111827;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.export-doc-meta {
+  display: block;
+  font-size: 0.75rem;
+  color: #6b7280;
+}
+
+.export-doc-remove {
+  border: none;
+  background: #fee2e2;
+  color: #b91c1c;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+/* Footer */
+.export-doc-footer {
+  padding: 0.65rem 0.9rem;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.export-doc-count {
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.export-doc-export {
+  border-radius: 999px;
+  border: none;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  background: #10b981;
+  color: black;
+  cursor: pointer;
+}

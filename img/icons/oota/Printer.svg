@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Printer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Printer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M114,113 L114,95 L37,95 L37,113 L7,113 C3.13400675,113 4.73447626e-16,109.865993 0,106 L0,43 C-4.73447626e-16,39.1340068 3.13400675,36 7,36 L143,36 C146.865993,36 150,39.1340068 150,43 L150,106 C150,109.865993 146.865993,113 143,113 L114,113 Z M9,44 C7.8954305,44 7,44.8954305 7,46 L7,54 C7,55.1045695 7.8954305,56 9,56 L17,56 C18.1045695,56 19,55.1045695 19,54 L19,46 C19,44.8954305 18.1045695,44 17,44 L9,44 Z" id="Combined-Shape" fill="#8BC53F"></path>
+        <path d="M37,92.5 C35.6192881,92.5 34.5,93.6192881 34.5,95 L34.5,140 C34.5,141.380712 35.6192881,142.5 37,142.5 L114,142.5 C115.380712,142.5 116.5,141.380712 116.5,140 L116.5,95 C116.5,93.6192881 115.380712,92.5 114,92.5 L37,92.5 Z M34.5,92.5 L116.5,92.5 L116.5,142.5 L34.5,142.5 L34.5,92.5 Z" id="Combined-Shape" stroke="#8BC53F" stroke-width="5" fill="#FFFFFF"></path>
+        <rect id="Rectangle-Copy-2" stroke="#8BC53F" stroke-width="5" x="34.5" y="7.5" width="82" height="63" rx="5"></rect>
+        <rect id="Rectangle" fill="#8BC53F" x="45" y="16" width="60" height="6"></rect>
+        <rect id="Rectangle-Copy" fill="#8BC53F" x="45" y="27" width="60" height="6"></rect>
+        <rect id="Rectangle-Copy-3" fill="#8BC53F" x="45" y="101" width="60" height="6"></rect>
+        <rect id="Rectangle-Copy-4" fill="#8BC53F" x="45" y="112" width="60" height="6"></rect>
+        <rect id="Rectangle-Copy-5" fill="#8BC53F" x="45" y="123" width="40" height="6"></rect>
+    </g>
+</svg>
