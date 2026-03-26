@@ -2,106 +2,123 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sparkyard | Home</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>It's Good To Be Me! | Sparkyard Songpage Prototype</title>
 
-   
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/custom.css">
+	<link rel="stylesheet" href="./css/text.css">
 
-    <link rel="stylesheet" href="./css/style.css">
-<link rel="stylesheet" href="./css/custom.css">
-<link rel="stylesheet" href="./css/text.css">
+	<link rel="stylesheet" href="./css/player-2.css">
+
+	<link rel="stylesheet" href="./css/export.css">
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.0/css/all.css">
 
+	<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+
+	<script>
+		let songId = null; // SONG ID - Will change when dynamic
+		let songbookId = null
+		let resourceId = null
+	</script>
+
+	<!-- jQuery and jPlayer Content -->
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="./jPlayer-2.9.2/dist/jplayer/jquery.jplayer.min.js"></script>
+	<script src="./jPlayer-2.9.2/dist/jplayer/jquery.jplayer.js"></script>
+	<link rel="stylesheet" href="jPlayer-2.9.2/dist/skin/blue.monday/css/jplayer.blue.monday.css">
+	<script type="text/javascript" src="./jPlayer-2.9.2/dist/add-on/jplayer.playlist.min.js"></script>
 
 
 </head>
 
 <body>
-    <div class="sidebar close">
-			<div class="logo_open">
-				<a href="index.html"><img src="./img/logo/logo.png" alt=""></a>
-			</div>
-			<div class="logo_close">
-				<a href="index.html"><img src="./img/logo/logo-icon.svg" alt=""></a>
-			</div>
+	<div class="sidebar close">
+		<div class="logo_open">
+			<a href="./index.html"><img src="./img/logo/logo.png" alt=""></a>
+		</div>
+		<div class="logo_close">
+			<a href="./index.html"><img src="./img/logo/logo-icon.svg" alt=""></a>
+		</div>
 
-			<ul class="nav_links">
-				<li class="sidebar_list">
-					<a class="sidebar_link" href="index.html">
-						<i class="fa-solid fa-house sidebar_logos"></i>
+		<ul class="nav_links">
+			<li class="sidebar_list">
+				<a class="sidebar_link" href="./index.html">
+					<i class="fa-solid fa-house sidebar_logos"></i>
+					<span class="link_name">
+						Home
+					</span>
+				</a>
+				<ul class="p_link_close_name"><a href="#">Home</a></ul>
+			</li>
+			<li class="sidebar_list ">
+				<div class="sidebar_dropdown">
+					<a class="sidebar_link" href="#">
+						<i class="fa-solid fa-music sidebar_logos"></i>
 						<span class="link_name">
-							Home
+							Songs and Playlists
 						</span>
 					</a>
-					<ul class="p_link_close_name"><a href="#">Home</a></ul>
-				</li>
-				<li class="sidebar_list ">
-					<div class="sidebar_dropdown">
-						<a class="sidebar_link" href="#">
-							<i class="fa-solid fa-music sidebar_logos"></i>
-							<span class="link_name">
-								Songs and Playlists
-							</span>
-						</a>
-						<i class="fa-solid fa-chevron-down sidebar_dropdown_arrow"></i>
-					</div>
-					<ul class="sub_menu ">
-						<li>
-							<a class="link_close_name">Songs and Playlists</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">All Songs</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">All Playlists</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">All eSongbooks</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Nativities and Musicals</a>
-						</li>
-					</ul>
-				</li>
-				<li class="sidebar_list">
-					<div class="sidebar_dropdown">
-						<a class="sidebar_link" href="#">
-							<i class="fa-solid fa-files sidebar_logos "></i>
-							<span class="link_name">
-								Resources
-							</span>
-		
-						</a>
-						<i class="fa-solid fa-chevron-down sidebar_dropdown_arrow"></i>
-					</div>
-					<ul class="sub_menu">
-						<li>
-							<a class="link_close_name">Resources</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Assemblies</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Music Activities</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Curriculum Links</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Creative Ideas</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Bright Ideas</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">SEND Resources</a>
-						</li>
-					</ul>
-				</li>
-				<li class="sidebar_list">
-					<div class="sidebar_dropdown">
+					<i class="fa-solid fa-chevron-down sidebar_dropdown_arrow"></i>
+				</div>
+				<ul class="sub_menu ">
+					<li>
+						<a class="link_close_name">Songs and Playlists</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">All Songs</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">All Playlists</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">All eSongbooks</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Nativities and Musicals</a>
+					</li>
+				</ul>
+			</li>
+			<li class="sidebar_list">
+				<div class="sidebar_dropdown">
+					<a class="sidebar_link" href="#">
+						<i class="fa-solid fa-files sidebar_logos "></i>
+						<span class="link_name">
+							Resources
+						</span>
+
+					</a>
+					<i class="fa-solid fa-chevron-down sidebar_dropdown_arrow"></i>
+				</div>
+				<ul class="sub_menu">
+					<li>
+						<a class="link_close_name">Resources</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Assemblies</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Music Activities</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Curriculum Links</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Creative Ideas</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Bright Ideas</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">SEND Resources</a>
+					</li>
+				</ul>
+			</li>
+			<li class="sidebar_list">
+				<div class="sidebar_dropdown">
 					<a class="sidebar_link" href="#">
 						<i class="fa-solid fa-book sidebar_logos"></i>
 						<span class="link_name">
@@ -109,118 +126,830 @@
 						</span>
 					</a>
 					<i class="fa-solid fa-chevron-down sidebar_dropdown_arrow"></i>
+				</div>
+				<ul class="sub_menu">
+					<li>
+						<a class="link_close_name">Music Curriculum</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Reception</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 1</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 2</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 3</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 4</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 5</a>
+					</li>
+					<li class="sub_item">
+						<a href="#">Year 6</a>
+					</li>
+				</ul>
+			</li>
+			<li class="sidebar_list">
+				<a class="sidebar_link" href="./new_sidebar_page.html">
+					<i class="fa-solid fa-rectangle-history sidebar_logos"></i>
+					<span class="link_name">
+						Collections
+					</span>
+				</a>
+				<ul class="p_link_close_name"><a href="./new_sidebar_page.html">Collections</a></ul>
+			</li>
+			<li class="sidebar_list">
+				<a class="sidebar_link" href="#">
+					<i class="fa-regular fa-calendars sidebar_logos"></i>
+					<span class="link_name">
+						Song Calendar
+					</span>
+				</a>
+				<ul class="p_link_close_name"><a href="">Song Calendar</a></ul>
+			</li>
+			<!-- <li>
+				<div class="profile-details">
+					<div class="profile-content"><a href="">
+							<img src="./img/icons/oota/wos_online.svg" alt=""></a>
 					</div>
-					<ul class="sub_menu">
-						<li>
-							<a class="link_close_name">Music Curriculum</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Reception</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 1</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 2</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 3</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 4</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 5</a>
-						</li>
-						<li class="sub_item">
-							<a href="#">Year 6</a>
-						</li>
-					</ul>
-				</li>
-				<li class="sidebar_list">
-					<a class="sidebar_link" href="./new_sidebar_page.html">
-						<i class="fa-solid fa-rectangle-history sidebar_logos"></i>
-						<span class="link_name">
-							Collections
-						</span>
-					</a>
-					<ul class="p_link_close_name"><a href="./new_sidebar_page.html">Collections</a></ul>
-				</li>
-				<li class="sidebar_list">
-					<a class="sidebar_link" href="#">
-						<i class="fa-regular fa-calendars sidebar_logos"></i>
-						<span class="link_name">
-							Song Calendar
-						</span>
-					</a>
-					<ul class="p_link_close_name"><a href="">Song Calendar</a></ul>
-				</li>
-				<li>
-					<div class="profile-details">
-						<div class="profile-content"><a href="">
-								<img src="./img/icons/oota/wos_online.svg" alt=""></a>
-						</div>
-						<div class="name-job"><a href="">
-								<div class="profile_name">Words On Screen</div>
-							</a>
-						</div><ul class="wos_close_name"><a href="">Words On Screen</a></ul>
-					</div>
-				</li>
-			</ul>
-		</div>
-		<div class="mob-overlay"></div>
-		
-
-
-		<main class="main_section">
-			<div class="top_bar">
-				<div class="sidebar_toggle_button">
-					<i class="fa-regular fa-bars sidebar_toggle"></i>
-				</div>
-
-				<div class="logo_mob">
-					<a href="index.html" class="logo_mob">
-						<img src="./img/logo/logo-icon.svg" alt="">
-					</a>
-				</div>
-
-				<div class="search_mob">
-					<a href="#"><img src="./img/search-icon-white.png" alt=""></a>
-				</div>
-
-				<form autocomplete="off" class="searchbar">
-					<input name="text" type="text" class="searchbar__input" id="searchbar" placeholder="Search" value="">
-					<img src="/img/search-icon.png" class="searchbar__icon-search" alt="">
-				</form>
-			</div>
-<div class="separator"></div>
-				
-					<section>
-		<div class="main__container">
-    		<div class="d-flex align-items-center justify-content-between mb-20 px-xl-0 px-3">
-				<p class="heading__section">Explore Sparkyard</p>
-			</div>
-			<div class="px-xl-0 px-3">
-				<div class="row category">
-					<div class="col-xl-4 col-6">
-						<a class="Tappable-inactive category__thumbnail one" href="prototype-4.html">
-							<img src="./img/buttons/songs.png" alt="" class="category__thumbnail__img">
+					<div class="name-job"><a href="">
+							<div class="profile_name">Words On Screen</div>
 						</a>
 					</div>
-								
+					<ul class="wos_close_name"><a href="">Words On Screen</a></ul>
+				</div>
+			</li> -->
+		</ul>
+	</div>
+	<div class="mob-overlay"></div>
+
+
+
+	<main class="main_section">
+		<div class="top_bar">
+			<div class="sidebar_toggle_button">
+				<i class="fa-regular fa-bars sidebar_toggle"></i>
+			</div>
+
+			<div class="logo_mob">
+				<a href="./index.html" class="logo_mob">
+					<img src="./img/logo/logo-icon.svg" alt="">
+				</a>
+			</div>
+
+			<div class="search_mob">
+				<a href="#"><img src="./img/search-icon-white.png" alt=""></a>
+			</div>
+
+			<form autocomplete="off" class="searchbar">
+				<input name="text" type="text" class="searchbar__input" id="searchbar" placeholder="Search" value="">
+				<img src="/img/search-icon.png" class="searchbar__icon-search" alt="">
+			</form>
+		</div>
+		<div class="separator"></div>
+
+
+		<main>
+			<div class="main__container bg__cello mt-0 header">
+
+				<div class="songpage__header">
+					<div class="songpage__header__grid">
+						<div class="songpage__header__info">
+							<div class="songpage__header__thumbnail">
+								<img src="./resources/images/albumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg"
+									alt="">
+
+								<span class="Tappable-inactive"
+									style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none; cursor: pointer;">
+									<div class="w-100 h-100 d-block songslist__overlay play-btn" data-song="2149"
+										id="AudioBtn">
+										<img src="./img/play-button-idle.svg" alt="play song"
+											class="song__thumbnail__icon">
+										<!-- <img src="/img/play-button-ready.svg" alt="play song" class="song__thumbnail__icon song__thumbnail__icon__ready"> -->
+									</div>
+								</span>
+							</div>
+							<div>
+								<h2 class="songpage__header__title">It’s Good To Be Me!</h2>
+								<a class="Tappable-inactive songpage__header__subtitle text-white">
+									Songs For EVERY Happy, Healthy School
+								</a>
+								<p class="songpage__header__subtext">By Mark and Helen Johnson</p>
+							</div>
+						</div>
+						<div class="d-lg-flex align-items-center ml-auto">
+							<a href="" class="icon__add" data-toggle="modal" data-target="#songHeaderActions">
+								<i class="fas fa-ellipsis-v text__fs-20 text__fs-20 "></i>
+							</a>
+						</div>
+						<div class="about_dropdown" data-song="1685">
+							<button onclick="aboutDropdown()" class="about_dropdown_button">
+								<p>Downloads &amp; About</p><i class="fa fa-chevron-down" id="chevron"></i>
+							</button>
+							<div id="myDropdown" class="about_dropdown_menu">
+								<div class="songpage__item__about__dropdown__grid">
+									<div>
+										<button id="LyricsBtn" class="viewFile">
+											<i class="fas fa-regular fa-file-lines downloadFileIcon"></i>
+											&nbsp;Lyrics
+										</button>
+									</div>
+									<div>
+										<button id="ScoreBtn" class="viewFile">
+											<i class="fas fa-regular fa-file-lines downloadFileIcon"></i>
+											&nbsp;Score
+										</button>
+									</div>
+									<div>
+										<button id="InfoBtn" class="viewFile">
+											<i class="fas fa-regular fa-file-lines downloadFileIcon"></i>
+											&nbsp;Music Activity
+										</button>
+									</div>
+									<div>
+										<button id="AudioDownloadBtn" class="downloadAudioZip">
+											<i class="fas fa-regular fa-download downloadFileIcon"></i>
+											&nbsp;Audio MP3s
+										</button>
+									</div>
+
+
+									<div>
+										<button id="exportSong" onclick="addSongToExportDocument(2146);" class="downloadPDFZip viewFile">
+											<i class="fa-solid fa-plus downloadFileIcon"></i>
+											&nbsp;Add to Document
+										</button>
+									</div>
+
+									<div>
+										<button id="exportSong" onclick="addSongToExportDocument(2193);" class="downloadPDFZip viewFile">
+											<i class="fa-solid fa-plus downloadFileIcon"></i>
+											&nbsp;Add to Document
+										</button>
+									</div>
+
+								</div>
+								<hr class="hr__white my-3">
+								<div class="songpage__item__about__dropdown__grid">
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Age</p>
+									</div>
+									<div><span class="text__fs-11">5-11</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Sparkyard Category</p>
+									</div>
+									<div><span class="text__fs-11">Assembly / Concerts/Performance / Wellbeing</span>
+									</div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Song Type</p>
+									</div>
+									<div><span class="text__fs-11">Layered Song</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Musical Style</p>
+									</div>
+									<div><span class="text__fs-11">Upbeat</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Vocal Range/Description</p>
+									</div>
+									<div><span class="text__fs-11">C-Db / Medium</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Starting Key</p>
+									</div>
+									<div><span class="text__fs-11">Ab Major</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Time Signature</p>
+									</div>
+									<div><span class="text__fs-11">4/4</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Subject</p>
+									</div>
+									<div><span class="text__fs-11">PSHE</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Topic / Theme</p>
+									</div>
+									<div><span class="text__fs-11">Individuality / Positivity</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Seasonal</p>
+									</div>
+									<div><span class="text__fs-11">All Year</span></div>
+									<div>
+										<p class="text__fs-12 text__fw-600 mb-0">Values</p>
+									</div>
+									<div><span class="text__fs-11">Thankfulness / Growth Mindset / Confidence</span>
+									</div>
+								</div>
+								<hr class="hr__white my-3">
 							</div>
 						</div>
 					</div>
-
-					
-				</section>
 				</div>
 
+				<div class="songpage__header">
+					<div class="songpage__header__grid">
+						<div class="songpage__header__info">
+							<div class="songpage__header__thumbnail">
+								<img src="./img/artwork-missing.jpg" alt="">
 
+								<span class="Tappable-inactive"
+									style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); user-select: none; cursor: pointer;">
+									<div class="w-100 h-100 d-block songslist__overlay play-btn" id="AudioBtn" data-song="1685">
+										<img src="./img/play-button-idle.svg" alt="play song"
+											class="song__thumbnail__icon">
+										<!-- <img src="/img/play-button-ready.svg" alt="play song" class="song__thumbnail__icon song__thumbnail__icon__ready"> -->
+									</div>
+								</span>
+							</div>
+							<div>
+								<h2 class="songpage__header__title"><em>Test Song</em></h2>
+								<a class="Tappable-inactive songpage__header__subtitle text-white">
+									<em>Unknown</em>
+								</a>
+								<p class="songpage__header__subtext">By <em>writer(s)</em></p>
+							</div>
+
+
+						</div>
+						<div class="d-lg-flex align-items-center ml-auto">
+							<a href="" class="icon__add" data-toggle="modal" data-target="#songHeaderActions">
+								<i class="fas fa-solid fa-download text__fs-20 text__fs-20" style="padding-left: 5px; padding-right: 5px;"></i>
+
+
+							</a>
+							<a href="" class="icon__add" data-toggle="modal" data-target="#songHeaderActions">
+								<i class="fas fa-ellipsis-v text__fs-20 text__fs-20 "></i>
+
+
+							</a>
+						</div>
+						<div class="about_dropdown" data-song="48"></div>
+					</div>
+				</div>
+			</div>
+			<section class="main__container">
+				<div class="songpage__container ">
+					<!-- Modal windows -->
+					<div id="LyricsModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span>
+								<a class="downloadFile" href="./resources/pdfs/lyrics/file_lyrics_152.pdf"
+									target="_blank">
+									<i class="fa fa-download "></i>&nbsp;Download File</a>
+								<button class="modalClose"><i class="fa-solid fa-xmark"></i></button>
+								<p class="viewerTitle"><b>It's Good To Be Me! | Lyrics</b></p>
+							</span>
+							<object class="pdf"
+								data="./resources/pdfs/lyrics/file_lyrics_152.pdf#navpanes=0&amp;toolbar=0&amp;statusbar=0"
+								width="800" height="500"></object>
+						</div>
+					</div>
+
+					<div id="ScoreModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span>
+								<a class="downloadFile" href="./resources/pdfs/score/file_score_152.pdf"
+									target="_blank">
+									<i class="fa fa-download "></i> Download File</a>
+								<button class="modalClose"><i class="fa-solid fa-xmark"></i></button>
+
+								<p class="viewerTitle">&nbsp;<b>It's Good To Be Me! | Score</b></p>
+
+							</span>
+							<object class="pdf"
+								data="./resources/pdfs/score/file_score_152.pdf#navpanes=0&amp;toolbar=0&amp;statusbar=0"
+								width="800" height="500"></object>
+						</div>
+					</div>
+
+					<div id="InfoModal" class="modal">
+						<!-- Modal content -->
+						<div class="modal-content">
+							<span>
+								<a class="downloadFile" href="./resources/pdfs/activity/file_info_152.pdf"
+									target="_blank">
+									<i class="fa fa-download "></i> Download File</a>
+								<button class="modalClose"><i class="fa-solid fa-xmark"></i></button>
+
+								<p class="viewerTitle">&nbsp;<b>It's Good To Be Me! | Music Activity</b></p>
+
+							</span>
+							<object class="pdf"
+								data="./resources/pdfs/activity/file_info_152.pdf#navpanes=0&amp;toolbar=0&amp;statusbar=0"
+								width="800" height="500"></object>
+						</div>
+					</div>
+
+
+					<!-- Main content -->
+
+					<div class="card__plain">
+						<div class="card__plain__body plus-padding bg__white ">
+							<p class="card__plain__heading mb-20 text__elephant">Song Summary</p>
+							<p class="summary__text-sm text__black mb-5">
+								<br>
+								<button onclick="exportSongbook(209);">Export the esongbook</button><br><br>
+
+
+								<!-- <button onclick="addSongToExportDocument(2354);">Add to document</button>
+								<br>
+								<button onclick="addSongToExportDocument(429);">Add to document</button> -->
+
+								<button class="play-btn" data-id="10">Play</button>
+
+								A feel-good, fun and contagious song in a soft-rock style, this is destined to become an
+								invaluable
+								teaching tool and a firm favourite – it’s a real Mark and Helen classic! It tackles
+								crucial issues
+								of self-acceptance and avoiding comparisons. The song concludes with the <span
+									data-toggle="tooltip" data-placement="top" data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Verse</div> <p>a group of lines that form a unit in a song</p>"><span
+										class="tooltip-inner__text">verse</span></span> and <span data-toggle="tooltip"
+									data-placement="top" data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Chorus</div> <p>a part of a song that is repeated after each verse</p>"><span
+										class="tooltip-inner__text">chorus</span></span> sung at the same time:
+								<em>‘It’s great to
+									be different but together!’</em>
+							</p>
+							<p class="card__plain__heading mb-3 text__elephant">Teaching tips</p>
+							<ul class="list__colored text_black mb-4">
+								<li>
+									<div>
+										<p class="summary__text-sm text__black mb-5">Watch the rising <span
+												data-toggle="tooltip" data-placement="top" data-html="true" title=""
+												data-original-title="<div class='tooltip-inner__header'>Pitch</div> <p>how high or low a note sits</p>"><span
+													class="tooltip-inner__text">pitch</span></span> in the verses on the
+											words
+											<em>‘together’</em> and <em>‘wherever’</em> to make sure that everyone is
+											using
+											their
+											listening skills to hit the right notes accurately.
+										</p>
+									</div>
+								</li>
+								<li>
+									<div>
+										<p class="summary__text-sm text__black mb-5">When learning the song add some
+											claps during the rests in the <span data-toggle="tooltip"
+												data-placement="top" data-html="true" title=""
+												data-original-title="<div class='tooltip-inner__header'>Chorus</div> <p>a part of a song that is repeated after each verse</p>"><span
+													class="tooltip-inner__text">chorus</span></span> such as: <em>‘But
+												if I
+												try (clap,
+												clap) to compare myself with you (clap, clap)’</em> and <em>‘I’ll never
+												see
+												(clap,
+												clap)’.</em> Then, take the claps away and get the children to use their
+											‘thinking
+											voices’ instead.</p>
+									</div>
+								</li>
+								<li>
+									<div>
+										<p class="summary__text-sm text__black mb-5">There are some fantastic syncopated
+											rhythms in both the <span data-toggle="tooltip" data-placement="top"
+												data-html="true" title=""
+												data-original-title="<div class='tooltip-inner__header'>Verse</div> <p>a group of lines that form a unit in a song</p>"><span
+													class="tooltip-inner__text">verse</span></span> and the chorus that
+											sound great when
+											sung crisply, especially when the chorus and verse are sung together at the
+											end.
+											Get the
+											children to really accentuate those <span data-toggle="tooltip"
+												data-placement="top" data-html="true" title=""
+												data-original-title="<div class='tooltip-inner__header'>Offbeat</div> <p>any of the normally unaccented beats in a bar</p>"><span
+													class="tooltip-inner__text">offbeat</span></span> rhythms and use
+											their
+											bodies to
+											get into the groove.</p>
+									</div>
+								</li>
+							</ul>
+
+							<div class="mt-n4"></div>
+						</div>
+					</div>
+					<div class="card__plain">
+						<div class="card__plain__body bg__cerise-dark">
+							<p class="card__plain__heading mb-20">Linked Assemblies</p>
+							<div class="d-flex align-items-baseline mb-20">
+								<div class="icon__box mr-12 bg__white flex-shrink-0"></div>
+								<p class="summary__text-sm"><a class="Tappable-inactive text-white">THE
+										LEAD-UP TO LEAVING PACK</a><br><small>Three teacher-led assemblies, designed to
+										be delivered
+										in the weeks leading up to the end of term.</small></p>
+							</div>
+							<div class="d-flex align-items-baseline mb-20">
+								<div class="icon__box mr-12 bg__white flex-shrink-0"></div>
+								<p class="summary__text-sm"><a class="Tappable-inactive text-white">REMEMBER
+										&amp; CELEBRATE!</a><br><small>A celebratory assembly that offers opportunities
+										for the
+										leaving children to share, and hold on to, memories of their time at primary
+										school.</small>
+								</p>
+							</div>
+							<div class="d-flex align-items-baseline mb-20">
+								<div class="icon__box mr-12 bg__white flex-shrink-0"></div>
+								<p class="summary__text-sm"><a class="Tappable-inactive text-white">THE
+										‘IT’S GOOD TO BE ME’ PACK</a><br><small>These FIVE assemblies celebrate the
+										wonder of being
+										human and the value of being ‘me’. Based on the animation above and the song
+										below, the
+										assemblies unpack themes such as understanding that God sees our potential,
+										looking beyond
+										appearances and learning to be a good role model.</small></p>
+							</div>
+						</div>
+					</div>
+					<!-- <div class="card__plain mb-4">
+						<div class="card__plain__header resource-header" style="background: rgb(216, 18, 125);">
+							<p class="card__plain__heading mb-0">SEND Resource</p>
+						</div>
+						<div class="card__plain__body plus-padding bg__white" style="padding: 40px 32px;">
+							<div class="d-flex align-items-center justify-content-between mb-13">
+								<p class="card__plain__subheading text__dark mb-0 mt__sm-2">It’s Good To Be Me! - BSL
+									Signing Video
+								</p>
+								<div class="d-lg-flex align-items-center ml-auto"><a href="" class="icon__add"
+										data-toggle="modal" data-target="#resourceHeaderActions">
+										<i class="fa-solid fa-link-simple text__fs-20 text__fs-20 text-dark"></i></a>
+								</div>
+							</div>
+							<div class="card-nt">
+								<div class="songpage__vid">
+									<div><iframe height="370px" src="https://youtube.com/embed/tkC6vI37Djc"
+											frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""
+											width="100%"></iframe></div>
+									<div class="songpage__vid__title mt-n2">
+										<p><span class="text__fw-600">Video </span> SingSign - British Sign Language</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div> -->
+					<div class="card__plain mb-4">
+						<div class="card__plain__header resource-header" style="background: rgb(141, 194, 97);">
+							<p class="card__plain__heading mb-0 resource_header">Curriculum Link<i
+									class="fa-solid fa-chevron-up"></i></p>
+
+						</div>
+						<div class="card__plain__body plus-padding bg__white" style="padding: 28px 32px;">
+							<div class="d-flex align-items-center justify-content-between mb-13">
+								<p class="card__plain__subheading text__dark mb-0 mt__sm-2">My Unique Tongue Twister</p>
+								<div class="d-lg-flex align-items-center ml-auto">
+									<a href="" class="icon__add">
+										<i class="fa-solid fa-link-simple text__fs-20 text__fs-20 text-dark"></i>
+									</a>
+								</div>
+							</div>
+							<div class="tag mb-23 mr-2 d-inline-block">English</div>
+							<div class="tag mb-23 mr-2 d-inline-block">Literacy</div>
+							<p class="summary__text-sm text__black mb-3">
+								Get the children to <strong>create their own tongue twisters</strong> using the first
+								letter of their
+								name. All the words in their sentence should be alliterative such as: Alex always asks
+								about
+								aeroplanes or Molly made a magic monkey.</p>
+							<p class="summary__text-sm text__black mb-5">
+								List all the sentences on a poster to create a tongue-twisting classroom poster and try
+								speaking them
+								all together.
+							</p>
+							<hr class="hr__lime my-4">
+							<div class="d-flex align-items-center justify-content-between mb-13">
+								<p class="card__plain__subheading text__dark mb-0 mt__sm-2">Mood Boards</p>
+								<div class="d-lg-flex align-items-center ml-auto">
+									<a href="" class="icon__add">
+										<i class="fa-solid fa-link-simple text__fs-20 text__fs-20 text-dark"></i>
+									</a>
+								</div>
+							</div>
+							<div class="tag mb-23 mr-2 d-inline-block">Art</div>
+							<div class="tag mb-23 mr-2 d-inline-block">PSHE</div>
+							<p class="summary__text-sm text__black mb-3">
+								Collect a good supply of colourful magazines and have the children cut out any pictures,
+								words or
+								symbols that represent things they enjoy doing or that they own, places they have been,
+								people they
+								admire, etc. Each child creates a collage with these, writing their name secretly on the
+								back. Then
+								have the rest of the class see if they can guess whose mood board is whose.
+							</p>
+						</div>
+					</div>
+					<div class="card__plain mb-4">
+						<div class="card__plain__header resource-header" style="background: rgb(245, 187, 38);">
+							<p class="card__plain__heading mb-0 resource_header">Creative Ideas<i
+									class="fa-solid fa-chevron-up"></i></p>
+						</div>
+						<div class="card__plain__body plus-padding bg__white" style="padding: 28px 32px;">
+							<div class="d-flex align-items-center justify-content-between mb-13">
+								<p class="card__plain__subheading text__dark mb-0 mt__sm-2">Create A ‘Big Picture’
+									Puzzle</p>
+								<div class="d-lg-flex align-items-center ml-auto">
+									<a href="" class="icon__add">
+										<i class="fa-solid fa-link-simple text__fs-20 text__fs-20 text-dark"></i>
+									</a>
+								</div>
+							</div>
+							<div class="tag mb-23 mr-2 d-inline-block">Art</div>
+							<div class="tag mb-23 mr-2 d-inline-block">Design &amp; Technology</div>
+							<div class="tag mb-23 mr-2 d-inline-block">PSHE</div>
+							<p class="summary__text-sm text__black mb-5">
+								<strong>Create a large puzzle template</strong> from stiff cardboard and distribute the
+								different
+								pieces
+								to each child in the class. Get everyone to design and decorate their piece showing
+								exactly what is
+								unique about them. Put the puzzle together to show how they individually fit together in
+								the ‘big
+								picture’.
+							</p>
+							</p>
+						</div>
+					</div>
+					<div class="card__plain mb-4">
+						<div class="card__plain__header resource-header" style="background: rgb(57, 130, 186);">
+							<p class="card__plain__heading mb-0">Music Activity</p>
+						</div>
+						<div class="card__plain__body plus-padding bg__white" style="padding: 28px 32px;">
+							<div class="d-flex align-items-center justify-content-between mb-13">
+								<p class="card__plain__subheading text__dark mb-0 mt__sm-2">Use Lyrical Phrases And
+									Dynamics With
+									Call-And-Response Rhythms</p>
+								<div class="d-lg-flex align-items-center ml-auto">
+									<a href="" class="icon__add">
+										<i class="fa-solid fa-link-simple text__fs-20 text__fs-20 text-dark"></i>
+									</a>
+								</div>
+							</div>
+							<div class="tag mb-23 mr-2 d-inline-block">Music</div>
+							<div class="d-flex align-items-start mb-15"><img
+									src="http://assets.sparkyard.com/uploads/icons/green-star-1614702483w2iKm.png"
+									class="mr-20" alt="What’s achievable" style="width: 25px; height: 25px;">
+								<div>
+									<p class="summary__text-sm text__black"><b>What’s achievable</b></p>
+									<p class="summary__text-sm text__black mb-3">
+									<ul class="list__colored text_black mb-4">
+										<li>
+											<div>
+												<div>
+													<p class="summary__text-sm text__black mb-4">To begin to define and
+														use a range of <span data-toggle="tooltip" data-placement="top"
+															data-html="true" title=""
+															data-original-title="<div class='tooltip-inner__header'>Dynamics</div> <p>volume</p>"><span
+																class="tooltip-inner__text">dynamics</span></span> while
+														playing
+														instruments</p>
+												</div>
+											</div>
+										</li>
+										<li>
+											<div>
+												<div>
+													<p class="summary__text-sm text__black">To play accurate rhythms in
+														time as an ensemble</p>
+												</div>
+											</div>
+										</li>
+									</ul>
+									</p>
+								</div>
+							</div>
+							<div class="d-flex align-items-start mb-15"><img
+									src="http://assets.sparkyard.com/uploads/icons/blue-wrench-16147025258WedI.png"
+									class="mr-20" alt="What you need" style="width: 25px; height: 25px;">
+								<div>
+									<p class="summary__text-sm text__black mb-3"><b>What you need</b></p>
+									<p class="summary__text-sm text__black mb-3">Large space; untuned percussion
+										instruments</p>
+								</div>
+							</div>
+							<p class="summary__text-sm text__black mb-4">Use the lyrical phrases from <em>It’s Good To
+									Be Me!&nbsp;</em>to <strong>play some <span data-toggle="tooltip"
+										data-placement="top" data-html="true" title=""
+										data-original-title="<div class='tooltip-inner__header'>Call-and-response</div> <p>a musical phrase in which the first melody or rhythm is responded to or echoed by the same or another melody or rhythm</p>"><span
+											class="tooltip-inner__text">call-and-response</span></span> rhythms</strong>
+								on untuned
+								percussion instruments.</p>
+
+							<p class="summary__text-sm text__black mb-4">Making sure each child has an instrument,
+								divide them into two groups sitting opposite
+								each other.
+								Using the rhythms from each line of lyrics in the <span data-toggle="tooltip"
+									data-placement="top" data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Verse</div> <p>a group of lines that form a unit in a song</p>"><span
+										class="tooltip-inner__text">verse</span></span>, play the instruments to create
+								a rhythmic,
+								call-and-response version of the song (so, group one plays <em>‘It’s good to be me’</em>
+								and group
+								two responds with <em>‘It’s good to know you’</em> etc.).</p>
+
+							<p class="summary__text-sm text__black mb-4">Sit the groups a fair distance apart and ask
+								them to <strong>play with different <span data-toggle="tooltip" data-placement="top"
+										data-html="true" title=""
+										data-original-title="<div class='tooltip-inner__header'>Dynamics</div> <p>volume</p>"><span
+											class="tooltip-inner__text">dynamics</span></span></strong>. The ‘response’
+								group will
+								have to listen carefully to determine whether the ‘call’ is quiet or loud and respond at
+								a similar
+								dynamic.</p>
+
+							<p class="summary__text-sm text__black mb-5">Finally, divide into three groups assigning
+								group one the <span data-toggle="tooltip" data-placement="top" data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Chorus</div> <p>a part of a song that is repeated after each verse</p>"><span
+										class="tooltip-inner__text">chorus</span></span> <span data-toggle="tooltip"
+									data-placement="top" data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Rhythm</div> <p>duration/length of notes;</p><p>regular, repeated patterns of sound</p>"><span
+										class="tooltip-inner__text">rhythm</span></span>, group two the verse
+								rhythm and group three a steady <span data-toggle="tooltip" data-placement="top"
+									data-html="true" title=""
+									data-original-title="<div class='tooltip-inner__header'>Pulse</div> <p>the beat, or steady heartbeat of the music</p>"><span
+										class="tooltip-inner__text">pulse</span></span>. Just like the group-singing
+								section of the
+								song, play altogether (first while speaking the lyrics to help with the rhythms, then
+								without). How
+								accurately can the groups play together?</p>
+							</p>
+							<div class="d-flex align-items-start mb-15">
+								<img src="http://assets.sparkyard.com/uploads/icons/u1873-1614695091mFFrP.png"
+									class="mr-20" alt="Step It Up!" style="width: 25px; height: 25px;">
+								<div>
+									<p class="summary__text-sm text__black mb-4"><b>Step It Up!</b></p>
+									<p class="summary__text-sm text__black mb-3">Get the children working in pairs to
+										create their own <span data-toggle="tooltip" data-placement="top"
+											data-html="true" title=""
+											data-original-title="<div class='tooltip-inner__header'>Call-and-response</div> <p>a musical phrase in which the first melody or rhythm is responded to or echoed by the same or another melody or rhythm</p>"><span
+												class="tooltip-inner__text">call-and-response</span></span> rhythms with
+										their
+										instruments to perform to the whole class.</p>
+
+								</div>
+							</div>
+							<p class="summary__text-sm text__black mb-2"><b>Inter-related Dimensions of Music</b></p>
+							<div class="d-flex flex-wrap mb-4">
+								<div class="tag-sm mr-2 mb-2 bg__fuchsia">Rhythm</div>
+								<div class="tag-sm mr-2 mb-2 bg__orchid">Texture</div>
+								<div class="tag-sm mr-2 mb-2 bg__cerise-dark">Dynamics</div>
+								<div class="tag-sm mr-2 mb-2 bg__pumpkin">Structure</div>
+							</div>
+							<p class="summary__text-sm text__black mb-2"><b>National Curriculum coverage for Music</b>
+							</p>
+							<div class="d-flex flex-wrap mb-4">
+								<div class="tag-sm mr-2 mb-2 bg__mantis">Listen</div>
+								<div class="tag-sm mr-2 mb-2 bg__cerise-dark">Play</div>
+								<div class="tag-sm mr-2 mb-2 bg__pumpkin">Sing</div>
+							</div>
+						</div>
+					</div>
+					<div class="card__plain mb-4">
+						<div class="card__plain__body" style="background: rgb(209, 102, 199);">
+							<p class="card__plain__heading mb-17 lh-140">“TODAY YOU ARE YOU, THAT IS TRUER THAN TRUE.
+								THERE IS NO
+								ONE ALIVE THAT IS YOUER THAN YOU.</p>
+							<p class="summary__text-sm mb-0">
+								Dr. Seuss
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="px-xl-0 px-3">
+					<p class="text__fs-10">© Out of the Ark Ltd</p>
+				</div>
 			</section>
 		</main>
-    <script src="./js/custom.js"></script>
-    <script src="./js/sidebar.js"></script>
+
+		<!-- <button class="export-doc-toggle" type="button">
+  Export document (0)
+</button> -->
+
+		<!-- Floating export document panel -->
+		<div class="export-doc-panel ">
+			<div class="export-doc-header">
+				<div>
+					<strong>Export document</strong>
+					<span class="export-doc-subtitle">Songs you’ll include in this Singchronize export</span>
+				</div>
+				<div class="export-doc-header-buttons">
+					<button class="export-doc-clear" type="button">Clear</button>
+					<button class="export-doc-close" type="button" aria-label="Close">×</button>
+				</div>
+			</div>
+
+			<ul class="export-doc-list">
+				<!-- Example static item; JS will manage these later -->
+				<li class="export-doc-item">
+					<div class="export-doc-item-info">
+						<span class="export-doc-title">Song Name</span>
+						<span class="export-doc-meta">ID 10 · 3:08 · Harvest</span>
+					</div>
+					<button class="export-doc-remove" type="button">Remove</button>
+				</li>
+				<!-- more items go here -->
+			</ul>
+
+			<div class="export-doc-footer">
+				<span class="export-doc-count">1 song in document</span>
+				<button class="export-doc-export" type="button">Export</button>
+			</div>
+		</div>
+		<!-- hidden add "hidden" back to the main class after editing -->
+		<footer id="audio-player" class="player hidden">
+			<!-- persistent footer player -->
+			<div class="audio-player" id="audioPlayerBar">
+				<!-- progress -->
+
+				<div class="progress-wrapper">
+					<span id="currentTime">0:00</span>
+					<div class="progress-container" id="progressContainer">
+						<div class="progress-bar" id="progressBar"></div>
+					</div>
+					<span id="totalTime">0:00</span>
+				</div>
+
+				<!-- controls row -->
+				<div class="controls-row">
+					<!-- left: art + titles -->
+					<div class="song-info">
+						<img id="albumArt" src="./img/artwork-missing.jpg" alt="Album Art">
+						<div class="text">
+							<div id="songTitle">Song Title
+							</div>
+							<div id="albumTitle">Album Title</div>
+						</div>
+
+					</div>
+
+					<!-- center: play/pause -->
+					<div class="main-controls">
+						<button id="stop" class="audio_button"><img src="./img/stop.svg" alt=""></button>
+						<button id="playPause" class="icon-btn">
+							<img id="playIcon" src="./img/play.e79215b3.svg" alt="Play">
+							<img id="pauseIcon" src="./img/pause.0510d7ce.svg" alt="Pause" class="hidden">
+						</button>
+					</div>
+
+					<!-- right: volume + version dropdown -->
+					<div class="right-controls">
+						<div class="addToDoc" id="addSong">
+							<button onclick="addSongToExportDocument();"><i class="fa-solid fa-plus"></i></button>
+							
+						</div>
+						<div class="dropdown">
+							<button id="dropdownToggle" class="dropdown-toggle">
+								<img id="versionImage" src="./img/audio-type/other.png" alt="Type">
+								<span id="versionLabel">Version</span>
+								<i id="dropdownChevron" class="fa-solid fa-chevron-down chevron"></i>
+							</button>
+							<div id="dropdownMenu" class="dropdown-menu"></div>
+						</div>
+						<div class="exit-button" id="exit-button">
+							<button><i class="fa-solid fa-xmark"></i></button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- libs for downloads -->
+			<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+			<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+
+
+		</footer>
+
+
+	</main>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+
+
+	<script src="./js/song-resources.js"></script>
+	<script src="./js/sidebar.js"></script>
+
+	<script src="./js/player-4.js"></script>
+	<script src="./js/export-4.js"></script>
+
+	<script>
+		window.addEventListener("DOMContentLoaded", () => {
+			if (window.initExportDocumentPanel) {
+				window.initExportDocumentPanel();
+			}
+		});
+	</script>
+
+
+	<!-- <script>
+		const hash = CryptoJS.MD5("wassup").toString();
+		console.log(hash);
+	</script> -->
+
 </body>
 
 </html>
